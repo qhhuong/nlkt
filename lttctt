@@ -1,1 +1,573 @@
-hi
+1. Nhớ
+- Đo giá trị, cất trữ, tiền quốc tế = tiền phải đủ giá trị
+- Nhật từng giảm phát, bản vị tiền giấy
+- Zimbabwe giải quyết lạm phát = cải cách tiền tệ → thường chỉ tạm thời
+- Thâm hụt NSNN VN không quá 5%, châu Âu không quá 3%
+- ODA = viện trợ không hoàn lại
+- ICOR = hệ số đầu tư tăng trưởng (muốn thêm 1 đơn vị sản lượng thì cần bao nhiêu đơn vị vốn)
+- Cty thương mại = hàng tồn (ngắn hạn), cty sản xuất = TSCĐ dài hạn
+- Vốn pháp định NHTM = 3000 tỷ
+- NHTM = doanh nghiệp trong tiền tệ, tín dụng, thanh toán
+- NHTM tài sản quan trọng = tiền cho vay, nguồn vốn quan trọng = tiền gửi có kì hạn
+- NHTM cổ phần Nhà nước = Nhà nước giữ >50% cổ phần
+- Cty cổ phần ít nhất 7 cổ đông, cty TNHH đóng đủ vốn từ đầu
+- Cty liên doanh = cty TNHH
+- Huy động vốn = quyết định tài trợ
+- Cân đối ngân sách cấp tỉnh → Mức dư nợ vốn huy động không quá 30% vốn xây dựng cơ bản
+- NHTW mua bán trái phiếu (thay đổi MB, MS) <> Chính phủ phát hành trái phiếu (không đổi MS, MB)
+- Trái phiếu chuyển đổi → cổ phiếu
+- Cổ phiếu = ghi sổ, mệnh giá, thị trường
+- UPCOM = CP chưa niêm yết
+- Lợi tức cổ phiếu thường > cổ phiếu ưu đãi > trái phiếu
+- Dự trữ bắt buộc không vượt có lãi 0.5%
+- Lãi coupon ~ giá bán ss với lãi ~ mệnh giá
+- Lãi = 0 → muốn tăng trưởng (ZIRP)
+- Đuôi -IBOR = lãi liên ngân hàng (LIBOR = London, SIBOR = Singapore, VNIBOR = Việt Nam)
+- Bộ Tài chính = chứng khoán, bảo hiểm
+- Phân cấp NSNN = chế độ chính sách, vật chất, chu trình ngân sách
+- Cấp NSNN = TW, tỉnh, huyện, xã
+- Cấp KBNN = TW, tỉnh, huyện
+- Tiền gửi KBNN tại NHTW = Tài sản của KBNN và nợ của NHTW
+- Chu trình ngân sách = lập → phê duyệt → giao → thực hiện → quyết toán
+- Lạm phát ⇒ Người cho vay ngoài, đi vay ngân hàng, hưởng lương, mua trái phiếu, bán tài sản thực = thiệt
+- Lựa chọn đối nghịch = vấn đề trước giao dịch, rủi ro đạo đức = vấn đề sau giao dịch
+
+2. Mức giữ lại
+- NSTW 100%
+Thuế GTGT xuất nhập khẩu
+Thuế xuất nhập khẩu, tiêu thụ đặc biệt nhập khẩu
+Thuế TNDN hạch toán toàn ngành
+Thuế/ thu dầu khí
+Viện trợ không hoàn lại nước ngoài (ODA)
+
+- NSĐP 100%
+Thuế liên quan nhà đất
+Thuế môn bài
+Thuế tài nguyên (- dầu khí)
+Lệ phí trước bạ, xổ số
+Viện trợ trực tiếp địa phương
+- Chia %
+Thuế GTGT (- xuất nhập)
+Thuế TNDN (- toàn ngành)
+Thuế thu nhập cao
+Thuế chuyển lợi nhuận ra nước ngoài (- dầu khí)
+Thuế tiêu thụ đặc biệt trong nước
+Phí xăng dầu
+
+3. Câu nói
+- Tiền tệ
+Mishkin = bất cứ gì chấp nhận chung
+Marx = hàng đặc biệt, ngang giá
+
+- Lãi
+Marx = GT thặng dư trả tư bản
+KTH cầu tài sản = cơ sở xác định OC
+Ngân hàng = tỉ lệ lãi so vốn
+KTH hiện đại = giá của cho vay
+
+- Lạm phát
+Marx = tràn đầy giấy bạc thừa
+Samuelson = mức chung giá, chi phí tăng
+Friedman = hiện tượng giá tăng
+
+- NSNN
+Cổ điển = văn kiện tài chính hàng năm, mô tả thu chi
+Phương Tây = quỹ tập trung, kế hoạch tài chính cơ bản
+Anh + Mỹ = tường trình chi tiêu viện trợ năm tới
+Pháp = tài liệu kế toán thu chi 1 năm
+Nga = bảng thu chi trong 1 giai đoạn
+Trung Quốc = kế hoạch thu chi hàng năm, theo pháp luật
+Việt Nam = thu chi 1 năm, cơ quan thẩm quyền quyết định
+- Lãi suất thực ⇒ Phương trình Fisher:
+                    Tỉ lệ lạm phát < 10%: i = ir + π^e
+                    Tỉ lệ lạm phát > 10%: ir = (in - π^e) / (π^e + 1)
+                    	i = Lãi thực
+                    	ir = Lãi danh nghĩa
+                    	π = Tỉ lệ lạm phát
+
+- Hệ số nhân tiền ⇒ Công thức:  D = (1 / rd) . R
+	D = Thay đổi của tổng tiền gửi séc
+	rd = Tỉ lệ dự trữ bắt buộc
+	R = Thay đổi tiền dự trữ với hoạt động hệ thống ngân hàng
+
+- Số nhân tiền tệ ⇒ Công thức: m = [1 + (C/D)] / [rd + (ER/D) + (C/D)] = 1 / rd
+	m = Số nhân tiền tệ
+	rd = Tỉ lệ dự trữ bắt buộc
+	C = Tiền mặt
+	ER = Tiền dự trữ vượt mức
+	D = Tiền gửi séc
+
+- Lượng cung ứng tiền
+⇒ Công thức: MS (hoặc M) = m . MB
+  	m = Số nhân tiền tệ
+	M = Cung tiền
+	MB = Cơ số tiền tệ (= C + R)
+
+⇒ Lưu ý
+  Giữ nguyên CF, lãi coupon càng cao + giá hiện tại càng nhỏ thì lãi hoàn vốn càng cao
+  m và M TLN với rd, TLN với C/D, TLN với ER/D
+==================================================================
+CHƯƠNG 1: NHỮNG VẤN ĐỀ CƠ BẢN CỦA TÀI CHÍNH TIỀN TỆ
+1. Các hình thái biểu hiện giá trị trong quan hệ trao đổi
+- Hình thái giá trị giản đơn/ngẫu nhiên : 1 rìu = 20kg thóc
+- Hình thái giá trị toàn bộ/mở rộng
+- Hình thái giá trị chung
+- Hình thái tiền tệ
+1. **Bản chất của tiền tệ**
+- ***Là bất cứ cái gì được chấp nhận chung trong việc thanh toán để nhận hàng hóa, dịch vụ, hoặc trong việc trả nợ ( F.S. Mishkin)***
+1. **Chức năng của tiền tệ**
+- Thước đo giá trị
+- Phương tiện cất trữ
+- Phương tiện trao đổi (= PT lưu thông + PT thanh toán + Tiền tệ quốc tế)
+1. **Chế độ tiền tệ**
+- Là hình thức tổ chức quản lý, lưu thông và sử dụng tiền tệ của một quốc gia được quy định bằng luật pháp
+    - Đơn vị tiền tệ: VND, USD, …
+    - Hình thức lưu thông: tiền giấy, polime, xu, …
+    - Bản vị tiền tệ: Là cách để định giá tiền tệ, liên tục thay đổi
+        - **Chế độ song bản vị (Bimetallism):** Tiền giấy được đảm bảo giá trị bằng **cả Vàng và Bạc** (có thể tự do chuyển đổi thành cả hai). Chế độ này thường gây bất ổn do tỷ giá giữa vàng và bạc liên tục thay đổi trên thị trường.
+        - **Chế độ bản vị tiền vàng (Gold Specie Standard):** Giá trị đơn vị tiền tệ được cố định bằng một lượng **Vàng** nhất định. Người dân có thể mang tiền giấy đến ngân hàng và đổi lấy vàng miếng hoặc vàng thỏi theo tỷ giá cố định.
+        - **Chế độ bản vị vàng thỏi (Gold Bullion Standard):** Tương tự bản vị tiền vàng, nhưng chỉ cho phép đổi tiền giấy ra **vàng thỏi** với số lượng lớn (thường chỉ áp dụng cho các giao dịch lớn hoặc giao dịch quốc tế).
+        - **Chế độ bản vị vàng hối đoái (Gold Exchange Standard):** Giá trị đồng tiền không trực tiếp gắn với vàng, mà được gắn với **một đồng tiền mạnh khác** (như USD hoặc Bảng Anh) mà đồng tiền mạnh đó lại được đảm bảo bằng vàng. Đây là cách các nước nhỏ hơn tham gia vào hệ thống vàng mà không cần nắm giữ quá nhiều vàng vật chất.
+        - **Chế độ bản vị ngoại tệ (Foreign Exchange Standard):** Giá trị đồng tiền của một quốc gia được xác định bằng cách neo nó vào **một hoặc một rổ ngoại tệ** khác (không nhất thiết phải là tiền tệ được đảm bảo bằng vàng). Ví dụ, nhiều quốc gia neo đồng tiền của mình vào Đô la Mỹ.
+        - **Chế độ bản vị tiền giấy không chuyển đổi ra vàng (Fiat Money Standard):** Giá trị của tiền giấy **không được đảm bảo bằng bất kỳ kim loại quý nào**. Tiền được gọi là **"tiền pháp định" (Fiat Money)**, giá trị của nó chỉ dựa vào **sắc lệnh của chính phủ** và **lòng tin** của người dân vào Chính phủ/Ngân hàng Trung ương. Giá trị của tiền tệ phụ thuộc hoàn toàn vào khả năng kiểm soát lạm phát và sức mạnh kinh tế của quốc gia đó.
+1. **Khối tiền tệ**
+- Khối tiền tệ M1 (tính thanh khoản cao nhất): = tiền mặt + tiền không kì hạn có thể viết séc
+- Khối tiền tệ M2: = M1 + tiền tiết kiệm không kì hạn
+- Khối tiền tệ M3: = M2 + tiền tiết kiệm có kì hạn
+- Khối tiền tệ L: = M3 + giấy tờ có giá
+⇒ Tính thanh khoản giảm dần
+1. Bản chất của tài chính
+- Phân phối: tạo lập các quỹ
+    - Phân phối lần đầu
+    - Phân phối lại
+- Giám đốc: giám sát + đốc thúc
+***Trong nền kinh tế trao đổi bằng hiện vật, số lượng giá cả trong nền kinh tế với N hàng hóa là: N(N-1)/2
+============
+# CHƯƠNG 2 + 6: HỆ THỐNG TÀI CHÍNH VÀ THỊ TRƯỜNG TÀI CHÍNH
+1. **Hệ thống tài chính (Trung gian tài chính + Thị trường tài chính)**
+- Là trung gian trao đổi giữa người thừa (tiết kiệm/cho vay) và người thiếu (đầu tư/ đi vay)
+- Trung gian tài chính: NHTM + Các tổ chức tài chính trung gian
+1. Cấu phần hệ thống tài chính
+a. Các tổ chức tài chính
+- Các tổ chức tài chính trung gian là ngân hàng TM (NHTW quản lý)
+- Các tổ chức tài chính trung gian phi ngân hàng (công ty BH, CKhoan, công ty tài chính, Quỹ) ⇒ Bộ tài chính quản lý
+b. Thị trường tài chính
+- Hoạt động tài chính trực tiếp trên thị trường tài chính 
+được thực hiện thông qua việc người cần vốn bán cho người có vốn các loại CK và các giấy tờ có giá.
+c. Công cụ tài chính : Là các giấy tờ có giá được mua bán trên thị trường tài chính (Cổ phiếu, Trái phiếu, tín phiếu, thương phiếu, …)
+d. Cơ sở hạ tầng tài chính: Hệ thống luật pháp, HT giám sát, HT thông tin, HT thanh toán
+1. Chức năng và vai trò chính của HT tài chính
+- Cung cấp các phương tiện thanh toán cho nền kinh tế, giúp cho các hoạt động kinh tế diễn ra hiệu quả hơn
+- Chu chuyển vốn từ người tiết kiệm tới người vay vốn
+- San sẻ rủi ro, hạ thấp chi phí giao dịch và hạn chế vấn đề thông tin ko cân xứng
+============
+
+CHƯƠNG 6: THỊ TRƯỜNG TÀI CHÍNH
+1. Khái niệm
+- Thị trường tài chính là nơi diễn quá trình luân chuyển vốn
+giữa những người dư thừa vốn đến những người thiếu hụt vốn thông qua việc mua bán các công cụ tài chính theo một cơ chế nhất định
+*CÔNG CỤ TÀI CHÍNH (giấy tờ có giá, chứng khoán): Thực hiện chuyển giao vốn giữa các chủ thể khác nhau trên thị trường
+
+1. Cổ phiếu (góp vào vốn CSH)
+2. Trái phiếu (cho cty vay)
+3. Thương phiếu 
+1. **Thị trường tài chính**
+- TT tiền tệ và TT vốn: Thời hạn chuyển giao vốn
+    - TT tiền tệ : ≤ 1 năm (ngắn hạn): thương phiếu, tín phiếu
+    - TT vốn: > 1 năm ( trung và dài hạn): cổ phiếu, trái phiếu
+- TT Nợ và TT Vốn cổ phần: Tính chất các công cụ tài chính
+    - TT nợ (cho vay): mua bán các công cụ nợ như trái phiếu và các món vay thế chấp, tín phiếu kho bạc: Thương phiếu, Trái phiếu, Tín phiếu
+    - TT vốn cổ phần: Cổ phiếu
+- TT Chính thức và TT Phi chính thức: Mức độ can thiệp của chính phủ
+    - TT Chính thức: CP
+    - TT Phi chính thức: ngoại tệ ở chợ đen, tiền ảo, ….
+- TT Tập trung và TT Phi tập trung: Phương thức tổ chức
+    - TT tập trung: mua bán, giao dịch CK theo 1 thời gian và địa điểm nhất định: HoSE, HNX
+    - TT phi tập trung (OTC): Online, thời gian địa điểm ko rõ ràng, khác nhau
+- Thị trường cấp 1 và thị trường cấp 2
+    - Thị trường cấp 1 (thị trường sơ cấp): mua bán các chứng khoán vừa mới được phát hành
+    - Thị trường cấp 2 (thị trường thứ cấp): mua bán lại các chứng khoán đã phát hành ( chứng khoán cũ)
+1. Công cụ trên thị trường tài chính
+a. Công cụ trên thị trường tiền tệ
+- Tín phiếu kho bạc
+- Chứng chỉ tiền gửi
+    - Công cụ vay nợ do NHTM phát hành
+    - Được thanh toán lãi hàng năm, và hoàn trả gốc khi đến kỳ hạn thanh toán
+- Thương phiếu : Là công cụ nợ ngắn hạn được các công ty lớn phát hành nhằm vay vốn trên thị trường
+- Hối phiếu được ngân hàng chấp nhận : Là hối phiếu có kỳ hạn do một công ty phát hành,
+đã được ngân hàng đóng dấu bảo lãnh chấp nhận thanh toán lên đó
+b. Công cụ trên thị trường vốn: cổ phiếu, trái phiếu, vay thế chấp
+============
+# CHƯƠNG 3: NGÂN SÁCH NHÀ NƯỚC
+ I. TỔNG QUAN VỀ NGÂN SÁCH NHÀ NƯỚC
+1. Khái niệm: NSNN là toàn bộ các khoản thu chi của nhà nước, đã được cơ quan nhà nước có thẩm quyền quyết định và được thực hiện trong một năm để đảm bảo thực hiện các chức năng và nhiệm vụ của Nhà nước
+( trích Điều 1 – Chương 1 – Luật NSNN/2002/QH11 )
+2. Vai trò
+- Điều tiết trong lĩnh vực kinh tế
+- Điều tiết trong lĩnh vực xã hội
+- Điều tiết trong lĩnh vực thị trường
+# II. THU TRONG NGÂN SÁCH NHÀ NƯỚC
+## 1. Theo tính chất cân đối ngân sách
+a. Thu trong cân đối: Thuế, phí, lệ phí, Các hoạt động kinh tế của NN, Các khoản thu khác
+b. Thu ngoài cân đối
+- Vay trong nước, vay ngoài nước
+## 2. Theo phạm vi
+### a. Thu trong nước
+- Nguồn thu trong khâu sản xuất: (quan trọng nhất)
+    - Từ sản xuất công nghiệp, nông nghiệp, xây dựng cơ bản, …
+- Nguồn thu trong khâu lưu thông - phân phối
+    - Bao gồm: thu từ lĩnh vực kinh doanh thương mại, giao thông vận tải, tài chính ngân hàng
+- Nguồn tu từ các hoạt động dịch vụ:
+    - dịch vụ giáo dục - đào tạo, y tế, văn hóa, thể dục - thể thao, phát thanh - truyền hình, du lịch, môi trường, …
+### b. Thu ngoài nước
+Bao gồm các khoản thu về vay nợ và viện trợ của nước ngoài
+# III. CHI NGÂN SÁCH NHÀ NƯỚC
+1. **Khái niệm**
+- Chi NSNN là quá trình phân phối, sử dụng quỹ NSNN theo những nguyên tắc nhất định cho việc thực hiện các chức năng, nhiệm vụ của Nhà nước
+1. Đặc điểm
+- Gắn với nhiệm vụ kinh tế, chính trị, xã hội
+- Là các khoản cấp phát không hoàn trả trực tiếp
+1. Nội dung
+- Theo chức năng, nhiệm vụ nhà nước : Chi kiến thiết kinh tế, Chi VH-XH, Chi quản lý hành chính, Chi ANQP, Chi khác
+- Theo tính chất các khoản chi:
+    - Chi thường xuyên: Những khoản chi có tính chất thường xuyên để duy trì “ đời sống quốc gia”
+    - Chi đầu tư: Các khoản chi làm tăng thêm tài sản quốc gia hoặc tạo ra những lợi ích trong tương lai
+IV. THÂM HỤT NGÂN SÁCH NHÀ NƯỚC
+Là tình trạng xảy ra khi tổng các khoản chi ngân sách vượt quá các khoản thu trong cân đối của ngân sách
+1. Các chỉ tiêu phản ánh thâm hụt
+Mức thâm hụt ngân sách = Thu trong cân đối – (Chi thường xuyên + Chi đầu tư phát triển)
+Tỷ lệ thâm hụt NS = Mức thâm hụt NS/ GDP x 100%
+1. Nguyên nhân
+- Chủ quan
+    - Cơ cấu thu chi ngân sách thay đổi
+    - Bất cập trong quản lý điều hành ngân sách của Nhà nước
+- Khách quan
+    - Diễn biến bất thường của chu kỳ kinh doanh
+    - Khủng hoảng kinh tế
+    - Thiên tai, dịch bệnh, chiến tranh...
+1. Biện pháp
+▪ Tăng thu
+▪ Giảm chi
+▪ Phát hành tiền
+▪ Sử dụng dự trữ ngoại hối
+▪ Vay nợ trong nước
+▪ Vay nợ nước ngoài
+
+V. NĂM NGÂN SÁCH VÀ CHU TRÌNH NGÂN SÁCH
+
+1. Năm ngân sách
+=========
+# CHƯƠNG 4: TÀI CHÍNH DOANH NGHIỆP
+**I. KHÁI NIỆM**
+- Là các khâu tài chính gắn với các hoạt động sản xuất kinh doanh của các doanh nghiệp
+**II. NGUỒN VỐN CỦA DOANH NGHIỆP**
+1. **Căn cứ vào đặc điểm luân chuyển vốn**
+- Vốn ngắn hạn
+- Vốn dài hạn
+1. **Căn cứ vào hình thái tồn tại**
+- Vốn hữu hình
+- Vốn vô hình
+1. **Căn cứ vào tính chất sở hữu**
+- Vốn chủ sở hữu
+- Vốn vay
+1. **Nguồn vốn chủ sở hữu**
+- Là vốn góp của các chủ sở hữu bỏ ra để thành lập và đưa doanh nghiệp vào hoạt động
+- Người góp vốn chịu trách nhiệm và được hưởng lợi ích từ hoạt động của doanh nghiệp trong phạm vi vốn góp
+- Doanh nghiệp không có nghĩa vụ hoàn trả phần vốn góp cho người đã góp vốn
+- Các phương thức huy động vốn chủ sở hữu
+    - Vốn góp ban đầu
+    - Phát hành cổ phiếu
+    - Tài trợ nội bộ
+1. **Nguồn vốn vay**
+- Là vốn đi vay từ các chủ thể kinh tế khác bên ngoài doanh nghiệp
+- Người góp vốn không phải chịu trách nhiệm về kết quả hoạt động của doanh nghiệp
+- Doanh nghiệp có nghĩa vụ hoàn trả gốc và lãi trong kỳ hạn xác định
+- Các phương thức huy động vốn vay
+    - Tín dụng thương mại
+    - Tín dụng ngân hàng
+    - Phát hành trái phiếu
+
+III. TÀI SẢN CỦA DOANH NGHIỆP
+1. Tài sản ngắn hạn
+Khái niệm và phân loại tài sản ngắn hạn: 
+• Tài sản bằng tiền
+• Vàng bạc, đá quý và kim khí quý
+• Chứng khoán ngắn hạn
+• Chi phí trả trước
+• Tiền đặt cọc
+• Các khoản phải thu
+• Hàng hóa vật tư
+1. Tài sản dài hạn
+Khái niệm và phân loại tài sản dài hạn
+• Tài sản hữu hình: Nhà xưởng, máy móc, trang thiết bị...
+• Tài sản vô hình: Bằng phát minh sáng chế, bản quyền kinh
+doanh, quyền sử dụng đất...
+- Là khoảng thời gian mà trong đó dự toán thu - chi tài chính
+của nhà nước đã được phê chuẩn có hiệu lực thi hành
+1. Chu trình ngân sách
+Là một giai đoạn bao gồm 3 bước: Lập dự toán ngân sách → Thực hiện ngân sách → Quyết toán ngân sách
+=========
+# CHƯƠNG 5: TÍN DỤNG
+# I. TỔNG QUAN VỀ TÍN DỤNG
+- Tín dụng là quan hệ vay mượn sử dụng vốn lẫn nhau g
+iữa các chủ thể dựa trên nguyên tắc có hoàn trả, có lãi suất và có thời hạn
+## 2. Đặc điểm
+- Là sự chuyển giao quyền sử dụng vốn và của cải từ chủ thể này sang chủ thể khác
+- Nguyên tắc hoàn trả
+- Sự tin tưởng
+- Giá cả của sự chuyển dịch vốn được hiểu là lãi suất tín dụng
+
+# II. CÁC HÌNH THỨC TÍN DỤNG TRONG NỀN KINH TẾ
+1. Hình thức tín dụng trong nền kinh tế căn cứ theo thời gian (vay càng dài lãi suất càng cao)
+- Tín dụng ngắn hạn ( ≤ 1 năm )
+- Tín dụng trung hạn ( 1 → ≤ 5 năm )
+- Tín dụng dài hạn ( > 5 năm )
+1. Hình thức tín dụng trong nền kinh tế căn cứ theo mục đích
+- Mục đích sản xuất (Hộ GĐ, DN)
+- Mục đích tiêu dùng (mua oto, mua TV, …. thường thì cá nhân nhiều hơn)
+- Mục đích khác (VD: vay để nộp học phí)
+1. Hình thức tín dụng trong nền kinh tế căn cứ theo chủ thể 
+    1.  Tín dụng ngân hàng
+    - Khái niệm: Quan hệ cho vay vốn giữa ngân hàng TM với các **chủ thể trong nền kinh tế**
+        - Hộ gia đình
+        - Doanh nghiệp
+        - Ngân hàng TM
+        - Chính phủ (Bao gồm cả NHTW)
+    - Phân loại
+    - Đặc điểm: Cho vay = tiền
+
+    b. Tín dụng thương mại: Cho vay bằng hàng hóa
+Quan hệ cho vay vốn giữa những người sản xuất kinh doanh, thực hiện dưới hình thức mua bán chịu hàng hóa
+Cho vay bằng hàng hóa
+c. Tín dụng Nhà nước: Cho vay bằng tiền
+Quan hệ cho vay vốn giữa Nhà nước với dân cư 
+và các chủ thể khác trong nền kinh tế trong đó Nhà nước là **người đi vay tiền** *( Trái phiếu CP (dài hạn) , tín phiếu Kho bạc (ngắn hạn) )*
+d. Cho thuê tài chính (Tín dụng thuê mua)
+Quan hệ cho vay vốn nảy sinh giữa 
+công ty tài chính với những người sản xuất kinh doanh dưới hình thức cho thuê tài sản cố định
+- Phân loại:
+    - Cho thuê tài chính
+    - Cho thuê hoạt động/ vận hành
+==========================
+# CHƯƠNG 7: NGÂN HÀNG THƯƠNG MẠI
+***Luật các tổ chức tín dụng 2010***
+“NHTM là loại hình ngân hàng được thực hiện tất cả các hoạt
+động ngân hàng và các hoạt động kinh doanh khác theo quy định
+của luật này nhằm mục tiêu lợi nhuận”
+**I. Chức năng của NHTM**
+- Chức năng trung gian tài chính
+- Chức năng tạo tiền
+- Chức năng trung gian thanh toán
+
+**II. Bảng cân đối tài sản của NHTM**
+Tài sản: 
+- Dự trữ (Tiền mặt và tiền gửi tại NHTW) (thanh khoản cao nhất)
+- Chứng khoán, Tiền gửi ở NHTM khác
+- Tiền cho vay (Khoản tiền lớn nhất)
+- Các tài sản khác (BĐS, tài sản cố định)
+Nguồn vốn:
+- Tiền gửi thanh toán (Tiền của ng gửi)
+- Tiền gửi tiết kiệm & tiền gửi có kỳ hạn
+- Các khoản tiền vay (Vay từ NHTW, các NH khác, or phát hành trái phiếu)
+- Vốn CSH (ít nhưng quan trọng nhất)
+==========================
+# CHƯƠNG 8: TỔNG QUAN VỀ LÃI SUẤT
+# I. BẢN CHẤT CỦA LÃI SUẤT
+> Karl Marx: ***“Lãi suất là một phần của giá trị thặng dư 
+mà nhà tư bản sản xuất phải trả cho nhà tư bản tiền tệ vì việc đã sử dụng vốn 
+trong một khoảng thời gian nhất định”***
+> Các nhà kinh tế học về lượng cầu tài sản: ***“Lãi suất là cơ sở để xác định 
+chi phí cơ hội của việc nắm giữ tiền”***
+
+> Ngân hàng thế giới: *“**Lãi suất là tỷ lệ phần trăm của tiền lãi so với tiền vốn”***
+
+> Các nhà kinh tế học hiện đại: ***“Lãi suất là giá cả cho vay, 
+là chi phí về việc sử dụng vốn và những dịch vụ tài chính khác”***
+
+- Lãi suất cơ bản ***(là LS tiền cho vay min do NHTW công bố) (same same giá sàn)***
+- Lãi suất tiền gửi (NH trả khách)
+- Lãi suất tiền cho vay (NH thu của khách)
+- Lãi suất chiết khấu → NHTW cho NHTM vay (LSCK cao hơn vì rủi ro cao hơn)
+    - Là mức lãi suất mà **Ngân hàng Thương mại** áp dụng khi họ **mua lại (chiết khấu)** các giấy tờ có giá (ví dụ: hối phiếu, kỳ phiếu) **chưa đến hạn thanh toán** từ khách hàng (doanh nghiệp/cá nhân)
+- Lãi suất tái chiết khấu → NHTW cho NHTM vay
+    - Khi một Ngân hàng Thương mại cần tiền gấp, họ bán lại (tái chiết khấu) các giấy tờ có giá này cho NHNN để nhận tiền mặt ngay. NHNN sẽ trừ đi khoản lãi suất tái chiết khấu.
+- Lãi suất tái cấp vốn → NHTW cho NHTM vay
+    - Khi Ngân hàng Thương mại thiếu hụt tiền dự trữ, họ có thể vay trực tiếp từ NHNN. Lãi suất này là chi phí vay đó
+- Lãi suất liên ngân hàng: LS mà giữa các NHTM cho vay với nhau (là LS ngắn hạn) (LIBOR)
+C_n = C_0 (1 + i)^n
+⇒  Tổng số tiền theo lãi kép ≥ Tổng số tiền theo lãi đơn
+Dấu “=” xảy ra khi n=1
+
+## 3. Lãi suất hoàn vốn
+- Là lãi suất làm cân bằng giá trị hiện tại của tiền thanh toán 
+nhận được từ một khoản tín dụng với giá trị hôm nay của khoản tín dụng đó
+- Công thức: PV = FVn / (1+i)^n (Chiết khấu dòng tiền)
+i: LS chiết khấu 
+→ FVn = PV(1+i)^n
+→ i : LS cho vay/ LS tiết kiệm / LS thị trường
+
+# IV. MỘT SỐ PHÂN BIỆT VỀ LÃI SUẤT
+## 1. Lãi suất danh nghĩa
+- Lãi suất danh nghĩa là lãi suất nêu lên trong hợp đồng cho vay hoặc trong thuộc tính của chứng khoán.
+
+## 2. Lãi suất thực
+- Là lãi suất được tính ở dưới dạng hiện vật, do vậy phản ánh chính xác hơn chi phí thực của việc vay mượn.
+##3. Tỷ suất lợi tức
+- Là tỷ lệ phần trăm của số thu nhập của người có vốn
+trên tổng số vốn đã được sử dụng (đầu tư hay cho vay)
+- Công thức: R = (P bán - P mua + C / P mua ) x 100%
+    - P bán: Giá bán của tài sản vào thời điểm đầu kỳ
+    - P mua: Giá mua tài sản ở thời điểm đầu kỳ
+    - C: Thu nhập bằng tiền mà tài sản đem lại trong thời gian nắm giữ
+
+# V. MÔ HÌNH CUNG - CẦU VỐN VAY TÁC ĐỘNG ĐẾN SỰ THAY ĐỔI LÃI SUẤT
+## 1. Các yếu tố làm dịch chuyển đường cung vốn vay:
+- Thu nhập của cải
+    - tăng : ⇒ S vốn vay dịch phải, D Trái phiếu dịch phải ⇒ iR (lãi suất) giảm
+- LN kỳ vọng của trái phiếu so với các tài sản khác
+    - D Trái phiếu dịch phải, S Vốn vay dịch phải ⇒ ir giảm
+- Rủi ro của trái phiếu/ khoản vay
+    - D Trái phiếu giảm, S Vốn vay giảm ⇒ P Trái phiếu giảm, iR tăng
+- Tính thanh khoản của trái phiếu/ khoản vay
+    - D Trái phiếu tăng ⇒ P TP tăng
+    - S vốn vay tăng ⇒ ir giảm
+## 2. Các yếu tố làm dịch chuyển đường cầu vốn vay
+- Khả năng sinh lời của các cơ hội đầu tư : tăng (Cầu vốn vay tăng)
+- Tỷ lệ lạm phát dự tính : tăng (Cầu vốn vay tăng)
+- Hoạt động của Chính phủ: tăng chi tiêu → thâm hụt NS → vay nợ (Cầu vốn vay tăng)
+## 3. Thay đổi trong Lãi suất Cân bằng
+### Tỷ lệ Lạm phát dự kiến tăng (Hiệu ứng Fisher)
+Khi **Tỷ lệ lạm phát dự kiến tăng**, nó tác động đồng thời đến cả Cung và Cầu vốn vay:
+
+1. **Cầu vốn vay tăng (dịch phải):** Người đi vay biết khoản nợ sẽ được trả bằng tiền có giá trị thấp hơn, nên họ muốn vay nhiều hơn.
+2. **Cung vốn vay giảm (dịch trái):** Người cho vay biết họ sẽ nhận lại tiền có giá trị thấp hơn,
+nên họ yêu cầu lãi suất danh nghĩa cao hơn để bù đắp, hoặc giảm lượng vốn cho vay.
+- **Kết quả:** Cả hai tác động này đều dẫn đến **Lãi suất cân bằng danh nghĩa tăng** lên.
+Đây chính là **Hiệu ứng Fisher**: Lãi suất danh nghĩa dịch chuyển cùng chiều với lạm phát dự kiến.
+==========================
+# CHƯƠNG 8: NGÂN HÀNG TRUNG ƯƠNG
+# I. TỔNG QUAN VỀ NHTW
+NHTW Thế giới được chia thành 3 loại:
+- NHTW độc lập với chính phủ: Mỹ, Đức, Thụy Sĩ, …
+- NHTW trực thuộc chính phủ: Việt Nam, Hàn Quốc, Indonesia, ….
+- NHTW đặc biệt: NHTW Châu Âu (ECB)
+## Chức năng của NHTW
+- Chức năng phát hành tiền (tạo MB (cơ sở tiền) ) và điều tiết lượng tiền cung ứng (MS)
+- NHTW là ngân hàng của các ngân hàng
+- NHTW là ngân hàng của Chính phủ
+# II. NHTW VÀ CƠ SỐ TIỀN TỆ
+## 1. Bảng cân đối tiền tệ rút gọn của NHTW
+Tài sản có: Chứng khoán (Trái phiếu CP mà NHTW mua trên thị trường mở), Tiền cho vay chiết khấu 
+Tài sản nợ: Tiền lưu hành, Tiền dự trữ (Cơ sở tiền tệ MB = Tiền lưu hành (C) + Tiền dự trữ (R)
+
+- Cho các NHTM vay tiền
+– Khi NHTW tăng số tiền cho vay chiết khấu với các NHTM, dự trữ của các NHTM tăng lên
+- Mua chứng khoán từ hệ thống NHTM
+– Khi NHTW mua chứng khoán từ các NHTM, dự trữ của hệ thống NHTM tăng lên
+# III. CHÍNH SÁCH TIỀN TỆ QUỐC GIA
+## 1. Mục tiêu
+***Mục tiêu cuối cùng**
+- Kiểm soát lạm phát, ổn định giá trị đồng tiền
+- Ổn định TT tài chính, ổn định lãi suất
+- Tạo công ăn việc làm, giảm tỉ lệ thất nghiệp
+- Tăng trưởng kinh tế, tăng trưởng GDP
+******
+- Chính sách mở rộng:
+    - Tăng trưởng GDP, giảm thất nghiệp
+    - Tăng lạm phát, tăng lãi suất
+- Chính sách thắt chặt: ngược lại
+
+***Mục tiêu trung gian**
+- Các mục tiêu được NHTW lựa chọn để thực hiện mục tiêu cuối cùng
+- Chỉ tiêu sử dụng: lượng tiền cung ứng và lãi suất thị trường
+- Yêu cầu:
+    - Mục tiêu có thể đo lường chính xác và nhanh chóng
+    - Mục tiêu đó có thể kiểm soát được
+***Mục tiêu hoạt động**
+- Là chỉ tiêu được NHTW lựa chọn khi sử dụng các công cụ của CSTT
+- Chỉ tiêu sử dụng: dự trữ của NHTM và lãi suất ngắn hạn trên thị trường tiền tệ
+
+## 2. Công cụ:
+1. ***Dự trữ bắt buộc***
+- Khái niệm: NHTW thay đổi tỉ lệ dự trữ bắt buộc trong hệ thống NHTM để 
+thay đổi lượng tiền cung ứng trong nền kinh tế
+- Cơ chế tác động: NHTW tăng hay giảm tỷ lệ DTBB làm
+giảm hay tăng tỷ lệ dự trữ vượt mức, tác động tới lượng vốn sẵn sàng cho vay của NH → MS thay đổi
+- Ưu điểm:
+    - Tác động nhanh chóng và với mức độ lớn đến lượng tiền cung ứng (MS)
+    - Tăng khả năng thanh toán cho NHTM
+    - Tăng cường quyền lực NHTW
+- Nhược điểm
+    - Phức tạp trong quản lý
+    - Kém linh hoạt
+    - Gây ảnh hưởng đến lợi nhuận kinh doanh của NHTM
+***b. Chính sách chiết khấu và tái chiết khấu*** 
+- Khái niệm: là công cụ mà bằng cách thay đổi lãi suất
+hoặc hạn mức chiết khấu, NHTW có thể thay đổi lượng tiền cung ứng
+- Cơ chế tác động
+    - NHTW tăng Lãi suất chiết khấu → giá khoản vay tăng → hạn chế cho vay các NHTM → giảm MS
+    - NHTW giảm Lãi suất chiết khấu → giá khoản vay giảm → tăng cường cho vay các NHTM → tăng MS
+- Ưu điểm:
+    - Giúp NHTW thực hiện vai trò người cho vay cuối cùng, giúp tránh khỏi các cơn hoảng loạn tài chính cho các NHTM
+    - Tác động đến việc điều chỉnh cơ cấu đầu tư đối với nền kinh tế
+- Nhược điểm:
+    - NHTW bị động trong việc điều tiết lượng tiền cung ứng
+    - Tạo ra vấn đề “Too big too fail” trong hệ thống NH
+**c. Nghiệp vụ thị trường mở (OMO)**
+- Khái niệm: Là việc NHTW mua/bán các giấy tờ có giá 
+(tín phiếu kho bạc, trái phiếu chính phủ) làm thay đổi lượng tiền cung ứng
+- Ưu điểm:
+    - Nhanh chóng và tiết kiệm chi phí
+    - Linh hoạt, chính xác, có thể thay đổi lượng tiền cung ứng ở bất cứ mức độ nào
+    - Dễ dàng đảo ngược tình thế, kiểm soát hoàn toàn lượng tiền cung ứng
+    - Gia tăng hiệu quả của các công cụ khác
+- Nhược điểm:
+    - Yêu cầu một thị trường tài chính phát triển (Các thành viên tham gia, hàng hóa, phương thức mua bán)
+
+***d. Chính sách hạn mức tín dụng***
+- NHTW khống chế mức tăng trưởng tín dụng của các NHTW 
+tùy thuộc vào tình hình kinh tế, can thiệp trực tiếp nhằm khống chế mức tăng khối lượng tín dụng của NHTM
+***e. Kiểm soát lãi suất***
+- Cơ chế điều hành gián tiếp: Thông qua cơ chế tái cấp vốn của NHTW và các tổ chức tín dụng, quản lý lãi suất cho vay của NHTM
+- Cơ chế điều hành trực tiếp: Quy định các mức lãi suất cụ thể như: khung lãi suất, trần lãi suất, biên độ chênh lệch
+
+***f. Chính sách tỷ giá***
+- NHTW điều chỉnh biên độ giao động tỷ giá giữa tỷ giá chính thức 
+trên thị trường ngoại tệ liên NH với tỷ giá các NHTM được phép kinh doanh trên thị trường.
+- Chính sách tỷ giá cố định
+- Chính sách tỷ giá thả nổi
+⇒ Chính sách tỷ giá thả nổi có điều chỉnh
+
+- tỷ giá cao quá: → hạ xuống = cách bán ngoại tệ trong dữ trữ ngoại hối ⇒ giảm MB ⇒ giảm MS
+- tỷ giá thấp quá: → tăng tỷ giá = cách mua ngoại tệ ⇒ tăng MB ⇒ tăng MS
+# CHƯƠNG 9: LẠM PHÁT
+# I. QUAN NIỆM VÀ PHÂN LOẠI LẠM PHÁT
+- Quan điểm của K. Marx: “Lạm phát là việc tràn đầy các kênh và các luồng lưu thông những tờ giấy bạc thừa”
+- Quan điểm của P. Samuelson: “Lạm phát xảy ra khi mức chung của giá cả và chi phí tăng”
+- Quan điểm của M. Friedman:“Lạm phát luôn luôn và bao giờ cũng là một hiện tượng kinh tế -xã hội
+chung hay căn bệnh kinh niên của những nước có sử dụng tiền tệ hiện đại”
+→ “Lạm phát là hiện tượng giá cả tăng nhanh liên tục trong một thời gian dài”
+1. **Phân loại lạm phát**
+Xét về mặt định lượng
+- Lạm phát vừa phải ( Normal inflation): tỷ lệ lạm phát là 1 con số, dưới 10%/năm
+- Lạm phát phi mã ( High inflation): tỷ lệ lạm phát là 2 con số, từ 10-99%/năm
+- Siêu lạm phát (Hyper inflation): tỷ lệ lạm phát này là 3 con số, từ 100% năm trở lên
+Xét về mặt định tính
+- Lạm phát cân bằng (Balanced inflation)
+- Lạm phát không cân bằng (Unbalanced inflation)
+- Lạm phát dự đoán được (Predicted inflation)
+- Lạm phát không dự đoán được (Unpredicted inflation)
+
+# II. NGUYÊN NHÂN GÂY RA LẠM PHÁT
+1. Quan điểm trường phái tiền tệ: Lạm phát do cung ứng tiền
+Chính phủ in tiền để trả nợ hoặc kích thích kinh tế
+→ Lượng tiền trong tay người dân tăng → Người dân dùng tiền đó để mua hàng hóa (nhu cầu tăng) → **Giá cả tăng vọt.**
+AD xảy ra trước (AD tăng) : MS tăng: Y’ đứng sau Yn
+1. Lạm phát chi phí đẩy
+- Giả định là công nhân yêu cầu tăng lương danh nghĩa (để cho mức lương thực tế giữ)
+→ AS giảm → Y’ giảm (Y’ đứng trước Yn)
+1. Lạm phát cầu kéo (do cầu tăng) 
+- do **nhu cầu mua hàng hóa/dịch vụ của người dân quá lớn** so với khả năng cung ứng của nền kinh tế
+AD tăng → Y_T tăng
+
+# III. TÁC ĐỘNG CỦA LẠM PHÁT
