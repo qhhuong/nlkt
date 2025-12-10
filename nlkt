@@ -1,617 +1,551 @@
-FOB điểm đến: Hàng đi đường là hàng của bên bán, chi phí bên bán chịu
-FOB điểm đi: Hàng đi đường là hàng của bên mua, chi phí vận chuyển bên mua chịu
-•Chu trình kết toán: Nhận biết → đo lường và ghi chép → Cung cấp thông tin
-Thuế GTGT Phải Nộp = Doanh thu thuần x Thuế suất GTGT
-=> Thuế GTGT phải nộp = ((Tổng thu từ bán hàng)/ (1 + Thuế suất GTGT)) x Thuế GTGT
-CHƯƠNG 1:
- KẾ TOÁN
-    → Ngôn ngữ kinh doanh
-- Chức năng 
-  + NHẬN BIẾT sự kiện kinh tế
-  + ĐO LƯỜNG VÀ GHI CHÉP thông tin về sự kiện theo thời gian, bằng tiền tệ
-  + CUNG CẤP THÔNG TIN cho người sử dụng qua báo cáo kế toán, phân tích thông tin
-- Chu trình
-  + Thu thập bằng chứng, cơ sở
-  + Ghi sổ kép (định khoản), ghi sổ cái (chữ T)
-  + Điều chỉnh cuối kì → Bảng cân đối thử
-  + Báo cáo tài chính → Khóa sổ
+CHƯƠNG 3:
+3.1 LÝ LUẬN CỦA C.MÁC VỀ GIÁ TRỊ THẶNG DƯ 
+3.1.1 Nguồn gốc của giá trị thặng dư 
+*Công thức chung của tư bản 
+Mọi tư bản lúc đầu đều biểu hiện dưới hình thái một số tiền nhất định, như ng bản  thân tiền không phải là tư bản, tiền chỉ biến thành tư bản trong những điều kiện nhất định  đó là khi chúng được dùng để bóc lột lao động của người khác. 
+Tiền với tư cách là tiền thông thường vận động theo công thức 
+H - T - H 
+(Đây là công thức lưu thông hàng hóa giản đơn) 
+Tiền với tư cách là tư bản vận động theo công thức 
+T - H - T' (T' = T + m) m là giá trị thặng dư 
+(Đây là công thức chung của tư bản) 
+So sánh công thức chung của Tư bản với công thức lưu thông hàng hóa giản đơn ta  thấy 
+  Giống nhau: Đều bao gồm hai giai đoạn mua và bán, đều bao gồm hai nhân tố tiền  và hàng. 
+C.Mác gọi công thức T - H -T' là công thức chung của tư bản vì sự vận động của mọi tư  bản đều biểu hiện trong lưu thông dưới dạng tổng quát đó
+* Hàng hóa sức lao động 
+Hàng hóa sức lao động không phải xuất hiện ngay khi có sản xuất hàng hóa.  Sức lao động chỉ trở thành hàng hóa và là đối tượng trao đổi, mua bán trên thị trường  khi sản xuất hàng hóa phát triển đến trình độ nhất định làm xuất hiện những điều kiện  biến sức lao động thành hàng hóa. 
+Điều kiện để sức lao động trở thành hàng hóa 
+- Thứ nhất, người lao động được tự do về thân thể, làm chủ được sức lao động  của mình
+và có quyền bán sức lao động của mình như một hàng hóa; 
+t - Thứ hai, người lao động không có tư liệu sản xuất và tư liệu sinh hoạt, 
+hoặc có  nhưng không đầy đủ; họ buộc phải bán sức lao động để sống, để tồn tại. 
+=> tính đặc biệt về  giá trị sử dụng của hàng hóa sức lao động so với giá trị sử dụng các hàng hóa khác  thể hiện ở chỗ,
+tiêu dùng sức lao động chính là quá trình lao động,
+do đó khi tiêu  dùng sức lao động sẽ tạo ra giá trị mới lớn hơn giá trị của bản thân hàng hóa sức lao  động.
 
-    CHẤT LƯỢNG THÔNG TIN KẾ TOÁN
-- Khách quan, trung thực → Không bị chi phối chủ quan
-- Đầy đủ → Đủ thông tin tài sản, nợ, vốn chủ sở hữu và KQKD trong kì
-- Kịp thời → Ghi chép báo cáo số liệu đúng/ trước thời hạn
-- Dễ hiểu → Dễ nắm được và so sánh giữa các kì
+"Giá trị thặng dư là một phần của giá trị mới dôi ra ngoài giá trị sức lao động  
+do lao động của người công nhân làm thuê sáng tạo ra và bị nhà tư bản chiếm không. "
+* Tư bản bất biến và tư bản khả biến 
+- Tư bản bất biến (c) 
+Khái niệm: Bộ phận tư bản biến thành tư liệu sản xuất, khi tham gia vào quá trình  sản xuất giá trị của nó được bảo tồn và chuyển vào sản phẩm, tức là không có sự biến đổi  về lượng gọi là tư bản bất biến. 
+Tư bản bất biến bao gồm: Máy móc và nguyên vật liệu 
+Ví dụ: tiền bông 20$, khấu hao máy móc 4$. Tổng tư bản bất biến là 24$ Như vậy; tư bản bất biến đóng vai trò là điều kiện cần thiết trong quá trình sản xuất  giá trị thặng dư (C.Mác ví nó như chiếc bình cổ cong trong phản ứng hóa học, nó không  tham gia vào phản ứng nhưng nếu thiếu nó thì phản ứng không thể thực hiện được). 
+- Tư bản khả biến (v) 
+Khái niệm: Bộ phận tư bản biến thành sức lao động không tái hiện ra nhưng thông  qua lao động trừu tượng của người công nhân làm thuê mà tăng lên tức là có sự biến đổi  về lượng gọi là tư bản khả biến. 
+Tư bản khả biến đóng vai trò quyết định sản xuất ra giá trị thặng dư, là điều kiện không  thể thiếu để sản xuất giá trị thặng dư. 
+C.Mác phân chia tư bản thành tư bản bất biến và tư bản khả biến đã vạch rõ bản  chất bóc lột của CNTB. Chỉ có lao động làm thuê của công nhân mới tạo ra giá trị thặng  dư cho các nhà tư bản. 
+* Tiền công
+Công nhân sau một khoảng thời gian lao động cho nhà tư bản hoặc sau khi hoàn  thành xong một công việc nào đó thì nhận được một số tiền công. Điều này đã dẫn đến  một sự nhầm lẫn cho rằng tiền công là giá cả của lao động.  
+C.Mác đã chứng minh, tiền công không phải là giá cả của lao động, lao động không  phải là hàng hóa. 
+Chứng minh 
+Thứ nhất, nếu lao động là hàng hóa thì nó phải được vật hóa thành các vật có hình  thức cụ thể. Điều kiện đê lao động được vật hóa là phải có TLSX, nếu người lao động có  TLSX thì người lao động sẽ sản xuất ra hàng hóa để bán chứ không bán lao động. 
+Thứ hai, nếu lao động là hàng hóa thì nó phải có giá trị, mà thước đo nội tại của giá  trị là lao động, vậy lao động lại được đo bằng lao động thì đây là một điều luẩn quẩn vô  nghĩa. 
+Thứ ba, nếu lao động là hàng hóa thì nó phải được trao đổi ngang giá mà nếu trao  đổi ngang giá thì nhà tư bản không thu được giá trị thặng dư điều này phủ nhận quy luật  giá trị thặng dư và CNTB không tồn tại, còn nếu trao đổi không ngang giá thì phủ nhận  quy luật giá trị. 
+Như vậy lao động không phải là hàng hóa, chỉ có sức lao động mới là hàng hóa. Tiền công chính là sự biểu hiện bằng tiền của giá trị sức lao động, hay tiền công là  giá cả của hàng hóa sức lao động 
+Các hình thức cơ bản của tiền công 
+- Tiền công tính theo thời gian 
+- Tiền công tính theo sản phẩm 
+Tiền công danh nghĩa và tiền công thực tế 
+Tiền công danh nghĩa là số tiền mà người công nhân nhận được do bán sức lao  động của mình cho nhà tư bản. Tiền công được sử dụng để tái sản xuất sức lao động, nên  tiền công danh nghĩa phải được chuyển hoá thành tiền công thực tế.  
+Tiền công thực tế là tiền công được biểu hiện bằng số lượng hàng hoá tiêu dùng và  dịch vụ mà công nhân mua được bằng tiền công danh nghĩa của mình. Tiền công danh nghĩa là giá cả sức lao động, nên nó có thể tăng lên hay giảm xuống  tuỳ theo sự biến động của quan hệ cung - cầu về hàng hoá sức lao động trên thị trường. 
+Trong một thời gian nào đó, nếu tiền công danh nghĩa không thay đổi, nhưng giá cả tư  liệu tiêu dùng và dịch vụ tăng lên hoặc giảm xuống, thì tiền công thực tế sẽ giảm xuống  hay tăng lên. 
+Tuần hoàn của tư bản 
+Tư bản luôn luôn vận động và lớn lên không ngừng, sự vận động của tư bản trải  qua 3 giai đoạn sau:  
+* Giai đoạn thứ nhất :(giai đoạn lưu thông)  
+Giai đoạn chuẩn bị các yếu tố sản xuất: Trong giai đoạn này tư bản tồn tại dưới hình thái tư bản tiền tệ, chức năng của nó là mua các yếu tố cho quá trình sản xuất, kết thúc giai đoạn này tư bản tiền tệ biến thành tư bản sản xuất.  
+* Giai đoạn thứ hai: (giai đoạn sản xuất) 
+Trong giai đoạn này tư bản tồn tại dưới hình thái tư bản sản xuất, chức năng của  nó là sản xuất ra giá trị và giá trị thặng dư. Kết thúc giai đoạn này tư bản sản xuất biến  thành tư bản hàng hóa. 
+* Giai đoạn thứ ba: (giai đoạn lưu thông) 
+Trong giai đoạn này tư bản tồn tại dưới hình thái tư bản hàng hóa, thực hiện chức năng là thực hiện giá trị của khối lượng hàng hóa đã sản xuất ra trong đó đã bao hàm một lượng giá trị thặng dư. Trong giai đoạn này, nhà tư bản trở lại thị trường với tư cách là  người bán hàng. Hàng hoá của nhà tư bản được chuyển hoá thành tiền.
+Tuần hoàn của tư bản là sự vận động liên tục của tư bản trải qua ba giai đoạn, lần  lượt mang ba hình thái khác nhau, thực hiện ba chức năng khác nhau để rồi lại quay trở về hình thái ban đầu có kèm theo giá trị thặng dư.  
+****Chu chuyển của tư bản 
+Sự tuần hoàn của tư bản nếu xét nó là một quá trình định kỳ đổi mới, và thường  xuyên lặp đi lặp lại thì gọi là chu chuyển của tư bản. 
+**** Thời gian chu chuyển của tư bản là khoảng thời gian kể từ khi tư bản ứng ra  dưới một hình thức nhất định (tiền tệ, sản xuất, hàng hóa) cho đến khi nó trở về tay  nhà tư bản cũng dưới hình thức như thế, nhưng có thêm giá trị thặng dư. Nói cách khác,  thời gian tư bản thực hiện được một vòng tuần hoàn gọi là thời gian chu chuyển của tư  bản. 
+Trong đó, thời gian chu chuyển của tư bản bao gồm thời gian sản xuất và thời gian  lưu thông. 
+* Tốc độ chu chuyển của tư bản 
+Tốc độ chu chuyển của tư bản là số lần (vòng) chu chuyển của tư bản trong một  
 
-    NGHỀ KẾ TOÁN
-- Công chức → Dịch vụ thuế, kiểm toán, tư vấn quản lý
-- Tư nhân → Nhân viên doanh nghiệp (người lao động)
-- Nhà nước → Thu thập xử lý thông tin về bộ máy nhà nước
-- Pháp lý → Điều tra gian lận bằng kĩ năng kế kiểm, điều tra
+năm. Công thức tính số vòng chu chuyển của tư bản là  
+CH 
+n =trong đó n là số lần (hay  ch 
 
-    ĐẠO ĐỨC KẾ TOÁN
-- Chính trực → Thẳng thắn, trung thực
-- Khách quan → Không thiên vị, xung đột lợi ích
-- Chuyên môn và thận trọng → Cẩn thận, chất lượng về chuyên môn, pháp luật, kĩ thuật
-- Bảo mật → Bảo vệ thông tin kinh doanh
-- Tư cách nghề → Tuân thủ luật, tránh giảm uy tín
-1.	Các loại Báo cáo tài chính
-•	BCKQKD: Doanh thu, Chi phí, Lợi nhuận
-•	BC lưu chuyển tiền tệ: dòng tiền ra vào
-•	Bảng cân đối kế toán :
+lần) chu chuyển của tư bản trong một năm, CH là thời gian tư bản vận động trong một  năm (360 ngày hoặc 12 tháng), ch là thời gian chu chuyển của một vòng của một tư bản  nhất định (thời gian cho 1 vòng chu chuyển của tư bản).  
+3.1.2 Bản chất của giá trị thặng dư 
+Để hiểu sâu hơn bản chất của giá trị thặng dư, C.mác đã làm rõ 2 phạm trù tỷ suất giá trị thặng dư và khối lượng giá trị thặng dư 
++ Tỷ suất giá trị thặng dư 
+Tỷ suất giá trị thặng dư là tỷ lệ tính theo phần trăm giữa giá trị thặng dư với tư bản  khả biến cần thiết để sản xuất ra giá trị thặng dư đó 
+=> phản ánh chính xác trình độ bóc lột của tư bản đối với lao  động. 
++ Khối lượng giá trị thặng dư 
+Khối lượng giá trị thặng dư là tích số giữa tỷ suất giá trị thặng dư với tư bản khả biến đã được sử dụng 
+M = m' x V 
+*Phương pháp sản xuất giá trị thặng dư tuyệt đối 
+Khái niệm: Là phương pháp kéo dài ngày lao động một cách tuyệt đối vượt quá  thời gian lao động cần thiết trong điều kiện năng suất lao động không đổi, thời gian lao  động cần thiết không đổi. 
+Trong phương pháp này  
+Những nhân tố cố định 
++ Năng suất lao động không đổi 
++ Thời gian lao động cần thiết không đổi 
+Những nhân tố biến đổi 
++ Ngày lao động được kéo dài ra (cường độ lao động tăng lên) 
++ Thời gian lao động thặng dư tăng lên 
++ Tỷ suất giá trị thặng dư tăng lên 
++ Làm kiệt quệ sức lao động của công nhân 
+* Phương pháp sản xuất giá trị thặng dư tương đối 
+Khái niệm: Là phương pháp rút ngắn thời gian lao động cần thiết trong điều kiện độ dài ngày lao động không đổi, nhờ đó kéo dài một cách tương ứng thời gian lao động  thặng dư. 
+Trong phương pháp này 
+Những nhân tố cố định
++ Ngày lao động không đổi 
++ Cường độ lao động không đổi 
+Nhân tố biến đổi 
++Năng suất lao động tăng lên 
++ Thời gian lao động cần thiết giảm xuống 
++Thời gian lao động thặng dư tăng lên. 
++ Tỷ suất giá trị thặng dư tăng lên. 
++ Sức lao động được giảm nhẹ 
+Vậy, Giá trị thặng dư tương đối là giá trị thặng dư thu được do rút ngắn thời gian lao động cần thiết trong điều kiện độ dài ngày lao động không đổi. 
+3.2 TÍCH LŨY TƯ BẢN 
+3.2.1 Bản chất của tích lũy tư bản 
+Tái sản xuất quá trình sản xuất được lặp đi lặp lại liên tục không ngừng. Tái sản  xuất giản đơn là tái sản xuất được lặp đi lặp lại với quy mô năm sau giống quy mô năm  trước.  
+Tái sản xuất mở rộng là quá trình sản xuất được lặp đi lặp lại với quy mô năm sau  lớn hơn quy mô năm trước.  
+Đặc trưng của chủ nghĩa tư bản là tái sản xuất mở rộng.  
+*Tái sản xuất giản đơn 
+=>tích lũy tư bản là sự chuyển hóa một phần giá trị thặng dư thành tư bản 
+hay là quá trình tư bản hóa giá trị thặng dư. 
+3.2.2 Những nhân tố góp phần làm tăng quy mô tích lũy 
+Thứ nhất: nâng cao tỷ suất giá trị thặng dư 
+Thứ hai, nâng cao năng suất lao động 
+Thứ ba, Sử dụng hiệu quả máy móc 
+Thứ tư, lượng tư bản ứng trước 
+3.3 CÁC HÌNH THỨC BIỂU HIỆN CỦA GIÁ TRỊ THẶNG DƯ TRONG NỀN  KINH TẾ THỊ TRƯỜNG 
+3.3.1 Lợi nhuận 
+Để làm rõ bản chất của lợi nhuận. C.Mác bắt đầu phân tích làm rõ chi phí sản xuất  * Chi phí sản xuất TBCN (k) 
+Đứng về mặt xã hội mà nói, để sản xuất ra hàng hóa xã hội phải hao phí  + Lao động quá khứ, biểu hiện dưới hình thái giá trị tư liệu sản xuất (Giá trị cũ) ký  hiệu là c 
++ Lao động sống, biểu hiện dưới hình thái giá trị mới ký kiệu là (v + m). Ta có chi phí thực tế để sản xuất ra hàng hóa.  
+Gi = c + v + m 
+Chi phí sản xuất TBCN là chi phí về tư bản mà nhà tư bản bỏ ra để sản xuất hàng  hóa bao gồm tư bản bất biến và tư bản khả biến. 
+k = c +v 
+Khi xuất hiện phạm trù chi phí sản xuát TBCN thì công thức giá trị hàng hóa được  viết thành  
+Gi = k+ m 
+Xét về mặt chất: 
+- Phạm trù giá trị thặng dư do tư bản khả biến (v) sinh ra 
+- Phạm trù lợi nhuận được quan niệm là tổng tư bản ứng trước sinh ra. Như vậy  phạm trù lợi nhuận đã che đậy bản chất bóc lột TBCN
+Xét về mặt lượng 
+Nếu giá cả hàng hóa = giá trị hàng hóa thì P = m 
+Nếu giá cả hàng hóa > giá trị hàng hóa thì P> m 
+Nếu giá cả hàng hóa < giá trị hàng hóa thì P < m 
+* Tỷ suất lợi nhuận (P') 
+Khái niệm: Tỷ suất lợi nhuận là tỷ lệ tính theo phần trăm giữa giá trị thặng dư với  tổng tư bản ứng trước. 
+3.3.3 Địa tô tư bản chủ nghĩa 
+Địa tô TBCN là phần giá trị thặng dư còn lại sau khi đã khấu trừ lợi nhuận bình  quân của tư bản kinh doanh trong nông nghiệp và phải nộp cho địa chủ 
+- Các hình thức địa tô tư bản chủ nghĩa 
++ Địa tô chênh lệch:  
+Sự hình thành giá cả ruộng đất và lợi nhuận siêu ngạch trong nông nghiệp khác với trong công nghiệp.
+Do nông nghiệp ruộng đất thì có hạn và không sản xuất ra được, trong khi đó dân  số lại tăng nhanh, 
+=> vì vậy, để đáp ứng nhu cầu nông sản cho xã hội phải canh tác cả trên  ruộng đất xấu nhất. 
+Các nhà tư bản kinh doanh trên ruộng đất xấu nhất phải thu được lợi nhuận bình quân (nếu không họ sẽ chuyển sang kinh doanh lĩnh vực khác), 
+vì vậy giá cả sản xuất trong nông nghiệp (còn gọi là giá cả sản xuất chung) do ruộng đất xấu quyết định.  
+Do đó, các nhà tư bản sản xuất trên ruộng đất có điều kiện sản xuất thuận lợi hơn sẽ có  giá cả sản xuất cá biệt thấp hơn nên họ thu được lợi nhuận siêu ngạch. 
+Trong nông nghiệp không có tự do cạnh tranh do độc quyền sử dụng ruộng đất và  độc quyền sở hữu ruộng đất ngăn cản. Vì vậy, các nhà tư bản khác không thể đầu tư tư bản trên mảnh ruộng đó để thu lợi nhuận siêu ngạch. Do đó, lợi nhuận siêu ngạch trong nông nghiệp tồn tại lâu dài, tương đối ổn định và chuyển thành địa tô chênh lệch. (Còn trong công nghiệp sự tồn tại của lợi nhuận siêu ngạch chỉ là hiện tượng tạm thời đối với  từng tư bản cá biệt).  
+=> địa tô chênh lệch là phần lợi nhuận siêu ngạch ngoài lợi nhuận bình quân thu được trên ruộng đất có điều kiện sản xuất thuận lợi hơn. 
+Nó là số chênh lệch giữa giá cả sản xuất chung được quyết định bởi điều kiện sản xuất trên ruộng đất xấu nhất và giá  cả sản xuất cá biệt trên ruộng đất tốt và trung bình.  
+Thực chất của địa tô chênh lệch là lợi nhuận siêu ngạch. Nguồn gốc địa tô chênh lệch là một phần giá trị thặng dư do công nhân nông nghiệp tạo ra. Địa tô chênh lệch gắn liền với độc quyền kinh doanh ruộng đất theo lối TBCN, đó là nguyên nhân sinh ra địa tô chênh lệch.  
+Địa tô chênh lệch có hai loại là địa tô chênh lệch I và địa tô chênh lệch II.
+- Địa tô chênh lệch I là loại địa tô thu được trên những ruộng đất có điều kiện tự nhiên thuận lợi. Chẳng hạn, có độ màu mỡ tự nhiên trung bình, tốt và có vị trí gần nơi tiêu  thụ hay gần đường giao thông. 
+- Địa tô chênh lệch II là loại địa tô thu được nhờ thâm canh, là kết quả của đầu tư thêm tư bản trên cùng đơn vị diện tích để nâng cao chất lượng canh tác của đất, nhằm tăng độ màu mỡ trên thửa ruộng đó, nâng cao sản lượng trên một đơn vị diện tích. 
++ Địa tô tuyệt đối là loại địa tô thu được trên mọi thứ đất, địa tô mà tất cả các chủ ruộng đều thu được, dù ruộng đất đó tốt hay xấu, ở gần hay xa. 
+_____________________________________________________________________________________
+A *****************************************
+- Ai là người đầu tiên phát hiện ra tính 2 mặt của lđ sx hàng hóa là lđ cụ thể & lđ trừu tượng: C.Mác
 
-PHƯƠNG TRÌNH KẾ TOÁN
-- Cơ bản → Tài sản = Nợ phải trả + Vốn chủ sở hữu
-- Mở rộng → Tài sản = Nợ phải trả + (Vốn góp - Rút vốn) + (Doanh thu - Chi phí)
 
-PHÂN LOẠI TÀI SẢN VÀ NGUỒN VỐN
-    → Thể hiện ở bảng cân đối kế toán (thời điểm, viết thanh khoản giảm dần)
-- Tài sản ~ Sở hữu lâu, xác định giá trị, đem lợi ích
-  + Ngắn hạn
-    -- Tiền, phải thu/trả trước
-    -- Công cụ/nguyên liệu, hàng hóa, tồn kho
-    -- Đầu tư ngắn (<12 tháng, cổ/trái/liên doanh)
-    -- Thuế đầu vào khấu trừ
-    -- Dự phòng giảm giá/khó đòi (âm)
-  + Dài hạn
-    -- Tài sản cố định
-    -- Bất động sản
-    -- Đầu tư dài (công ty con/liên kết/liên doanh), dở dang
-    -- Khấu hao tài sản (âm)
-- Nguồn vốn
-  + Nợ phải trả ~ Phát sinh quá khứ, trả bằng nguồn lực
-    -- Thuế đầu ra
-    -- Phải trả/nhận trước, vay
-    -- Ký quỹ (ngắn), quỹ khen thưởng phúc lợi (ngắn), quỹ phát triển KHCN (dài)
-    -- Dự phòng bảo hành/tái cơ cấu/hoàn trả
-  + Vốn chủ sở hữu: Vốn góp, quỹ dự phòng tài chính/ đầu tư phát triển, lợi nhuận
+B ******************************************
+##### BẢN CHẤT CỦA
+- Bản chất của chủ nghĩa tư bản độc quyền NN: Sự kết hợp giữa tổ chức độc quyền tư nhân và NN tư sản
+_ Bản chất của tiền tệ? (Gồm: Tiền tệ là một loại hàng hóa đặc biệt được tách ra làm vật ngang giá chung cho mọi hàng hóa; Tiền tệ thể hiện mối quan hệ kết tinh trong hàng hóa; Tiền tệ phản ánh mối quan hệ giữa những người sản xuất hàng hóa với nhau) D) Tất cả các đáp án đều đúng
 
-a. Các giả định kế toán
-1.	Giả định về thực thể kinh doanh (Business Entity Assumption
-Ví dụ: Tiền cá nhân của giám đốc không được ghi vào tài sản công ty.
-2.	Giả định về hoạt động liên tục (Going Concern Assumption)
-Ví dụ: Máy móc mua 1 tỷ, dù giá thị trường tăng/giảm thì vẫn ghi sổ theo giá gốc, vì DN sẽ dùng lâu dài chứ không bán ngay.
-3.	Giả định về thước đo tiền tệ (Monetary Unit Assumption)
-•	Mọi nghiệp vụ phải được đo lường và ghi nhận bằng tiền tệ (VNĐ tại Việt Nam).
-•	Những yếu tố không thể quy đổi ra tiền 
-(như chất lượng nhân viên, uy tín) thì không ghi vào sổ kế toán.
-4.	Giả định về kỳ kế toán (Time Period Assumption)
-Báo cáo tài chính năm 2024 chỉ phản ánh số liệu trong năm đó, 
-không lẫn với 2025.
-b. Các nguyên tắc kế toán
-Nguyên tắc (9)
-  + Cơ sở dồn tích: Ghi sổ ngay khi phát sinh, sửa bằng bút toán điều chỉnh
-  + Giá phí
-    -- Giả định liên tục và kì kế toán
-    -- Tài sản tính theo giá tại thời điểm nhận được (tổng tiền các nguồn lực bỏ ra để có tài sản)
-  + Khách quan: Số liệu có thể kiểm tra được, có chứng từ, không bị ảnh hưởng chủ quan
-  + Phù hợp
-    -- Giả định liên tục và kì kế toán
-    -- Chi phí phát sinh phải phù hợp với doanh thu
-  + Nhất quán: Chỉ thực hiện 1 phương pháp kế toán (tính giá vốn, lập dự phòng, tính khấu hao)
-  + Ghi nhận doanh thu: Ghi nhận doanh thu khi giao hết hàng hoặc hoàn thành dịch vụ (không liên quan tiền)
-  + Thận trọng
-    -- Ghi nhận doanh thu khi có chứng từ, nhưng ghi nhận chi phí từ khi có nguy cơ
-    -- Chọn ghi thấp nhất cho chi phí liên quan tài sản, ghi cao nhất cho công nợ phải trả
-  + Trọng yếu: Ghi tách riêng các nghiệp vụ quan trọng với người sử dụng, có thể bỏ qua các lỗi nhỏ
-  + Công khai: Tất cả tình hình tài chính, hoạt động phải trình bày đủ trong BCTC cho người sử dụng
-CHƯƠNG 2:
-1.	Định khoản (ghi nhật ký chung)
-TÀI SẢN: tăng ghi Nợ
-       giảm ghi Có
-NGUỒN VỐN: tăng ghi Có
-                  giảm ghi Nợ
-Ngắn hạn : <1 năm; Dài hạn: >1 năm
-•	Chi phí ghi giống Tài sản, Doanh thu ghi giống Nguồn vốn
-•	VD1: Mua hàng 200tr, thanh toán 1 nửa = TGNH
-Nợ TK Hàng hóa: 200tr
-Có TK TGNH: 100tr
-Có TK Phải trả người bán: 100tr
-•	VD2 : Góp vốn = 100tr tiền mặt; 200tr = TSCĐ
-Nợ TK Tiền: 100tr
-Nợ TK TSCĐ: 200tr
-Có TK Vốn CSH: 300tr (Tăng)
-4 LOẠI BÚT TOÁN ĐIỀU CHỈNH
-1.	Chi phí trả trước (CP thuê Vp trả trước, CP bảo hiểm trả trước, VP phẩm, TSCĐ)
-*CP thuê VP trả trước
-Nợ TK Chi phí thuê VP trả trước
-Có TK Tiền gửi TKNH
-→ điều chỉnh:
-Nợ TK Chi phí thuê VP
-Có TK Chi phí thuê VP trả trước
-1.	Chi phí dồn tích
-•	Lãi luôn tính theo năm
-VD: Vay NH 2 tỷ từ 1/1 vay 9 tháng. Lãi suất 10% (Lãi + gốc trả cuối kì)
-1/1 : Nợ TK Tiền: 2 tỷ; Có TK vay NH: 2 tỷ
-31/3: Nợ TK Chi phí lãi vay: 50tr; Có TK lãi vay phải trả: 30tr
-c. Doanh thu dồn tích (gửi tiền NH)
-Gửi tiền NH: 2 tỉ, 9 tháng, lãi 10% (Gốc và lãi nhận cuối kì)
-1/1: Nợ TK TGNH: 2 tỷ; Có TK Tiền mặt: 2 tỷ
-31/3: Nợ TK lãi vay phải thu: 50tr; Có TK Doanh thu lãi vay: 50tr
-d. Doanh thu nhận trước
-KH ứng trước 100tr tiền hàng. 31/3 mới giao được 1 nửa cho KH. 30/4 giao nốt
-1/1: Nợ TK tiền: 100tr; Có TK KH ứng trước: 100tr
-31/3: Nợ TK KH ứng trước: 50tr; CÓ TK doanh thu bán hàng: 50tr
-30/4: Nợ TK KH ứng trước: 50tr; Có TK Doanh thu bán hàng: 50tr
-________________________________________
-TK Tạm thời: TK Doanh thu, Chi phí, Rút vốn: không có số dư cuối kỳ
-•	Tất cả TK thuộc Bảng CĐKT → TK vĩnh viễn
-•	TK thuộc Báo cáo kết quả KD → TK tạm thời
-•	Chu trình kế toán: Định khoản → Các sổ cái (TK chữ T) → Lập Bảng cân đối thử → Bút toán điều chỉnh → Lập lại Bảng cân đối thử sau điều chỉnh → Làm bút toán khóa sổ → Lập BCTC
-**************************
-CHƯƠNG 3: KẾ TOÁN CÔNG TY THƯƠNG MẠI
-1.	Mua hàng
-Nợ TK Hàng hóa: tiền hàng ko gồm VAT + CP vận chuyển - giảm trừ
-Mua nợ: Điều khoản thanh toán: 2/10. n/30
-Nợ TK thuế GTGT/ đầu vào
-Có TK tiền/ PTNB/ Ứng trước cho người bán
-1.	Bán hàng
-•	Ghi Doanh thu:
-Nợ TK TIền/ PTKH/KHUT Có TK Doanh thu bán hàng
-Có TK Thuế GTGT đầu ra
-•	Ghi giảm trừ doanh thu
-Nợ TK Chiết khấu bán hàng/ Hàng bán trả lại
-Nợ TK Thuế GTGT đầu ra
-Có TK Phải thu KH/ tiền
-•	Ghi chi phí bên bán phải chịu (nếu có) : FOB điểm đến
-Nợ TK CP vận chuyển (điểm đến)
-Nợ TK thuế GTGT đầu vào
-Có TK tiền/ phải trả người bán
-•	Ghi Giá vốn hàng hóa (Chi phí)
-Nợ TK GVHB
-Có TK Hàng hóa
-•	Chi phí hoạt động = Lương, dịch vụ ngoài, quảng cáo, khấu hao, vận chuyển, bảo hiểm, tiện ích, chi phí bán hàng
-•	Doanh thu khác = Cho thuê tài sản
-•	Chi phí khác = Thanh lý tài sản + Lỗ, phạt
-•	Doanh thu thuần = Doanh thu gộp (DT bán hàng) - Khoản giảm trừ (trả, giảm, chiết khấu)
-•	Lợi nhuận gộp = Doanh thu (ko tính VAT) - Giá vốn hàng bán (ko tính VAT) - các khoản giảm trừ doanh thu (chiết khấu bán hàng)
-(LN gộp (chưa trừ các chi phí vận hành (Chi phí bán hàng, Chi phí quản lý doanh nghiệp) = Doanh thu thuần - GVHB)
-•	Lợi nhuận thuần (kinh doanh) = Lợi nhuận gộp + Doanh thu tài chính - Chi phí tài chính - Chi phí bán hàng và quản lý doanh nghiệp + doanh thu khác - chi phí khác
-•	Lợi nhuận trước thuế = Lợi nhuận thuần + Doanh thu khác - Chi phí khác (Lợi nhuận thuần có thể ~ Lợi nhuận trước thuế)
-- Tỷ lệ lợi nhuận gộp trên doanh thu: (DT - GVHB)/DT
-________________________________________
-Chu kì kinh doanh : Dịch vụ < Thương mại < Sxuat
-***************************************
-CHƯƠNG 4: HÀNG TỒN KHO
-VAT đầu ra (phải nộp)
-VAT đầu vào (được khấu trừ)
-Giá gốc HTK ĐK + Giá gốc HTK mua vào trong kì = Giá vốn hàng bán + Giá gốc HTK cuối kì
-⇒ Giá trị hàng hóa có sẵn để bán = Giá gốc HTK ĐK + Giá gốc HTK mua vào trong kì (thuần)
-( Giá vốn hàng mua thuần = Giá mua hàng (chưa VAT) - Hàng mua trả lại + Chi phí vận chuyển)
-⇒ Tổng hàng có sẵn = Giá vốn hàng bán (Hàng đã bán) + Giá gốc HTK cuối kì
-CÁC PHƯƠNG PHÁP TÍNH GIÁ VỐN HÀNG BÁN
-GVHB = Doanh thu thuần - Lợi nhuận gộp
-•	PHƯƠNG PHÁP 1: THỰC TẾ ĐÍCH DANH
-chỉ phù hợp với các DN có số lượng hàng hóa ít, và giá trị lớn
-•	PHƯƠNG PHÁP 2: GIÁ GIẢ ĐỊNH
-phù hợp với các DN có nhiều hàng hóa và giá trị ko quá lớn
-•	FIFO: First in first out : Nhập trước xuất trước
-•	LIFO: Last in first out: Nhập sau xuất trước
-•	Giá bình quân
-o	Bình quân cả kì
-o	Bình quân từng lần
-⇒ Giá vốn hàng mua thuần = Giá mua hàng - Hàng mua trả lạI + Chi phí vận chuyển
- 
- 
-1/ Kiểm kê cuối kỳ:
-•	GVHB = Giá gốc hàng sẵn sàng để bán - Giá gốc hàng tồn kho cuối kì
-•	           = Hàng tồn kho đầu kỳ + Hàng mua thêm trong kỳ - Hàng tồn kho cuối kỳ
-•	           = Tồn kho đầu kỳ + Giá vốn hàng mua thuần - Tồn kho cuối kỳ
-•	Giá gốc hàng sẵn sàng để bán (các số lần mua) = (SL x đơn giá) + (SL x đơn giá) + …
-•	Số lượng hàng tồn kho cuối kì = [Các số lượng mua] - [Các số lượng bán]
-Giá gốc hàng tồn kho cuối kì:
-•	FIFO (ngược từ dưới lên - các lần mua) = [SL lần mua mới nhất] x [Đơn giá] + …. cho đến khi SL các lần mua = SL hàng tồn kho cuối kì
-•	LIFO (từ trên xuống) = [SL lần mua cũ nhất] x [Đơn giá] + ….. cho đến khi SL các lần mua = SL hàng tồn kho cuối kì
-•	Giá bình quân cả kì: Giá gốc hàng sẵn sàng để bán/ Tổng số lượng các lần mua
-⇒ Giá gốc hàng tồn kho cuối kì : [Giá bình quân cả kì] x [SL hàng tồn kho cuối kì]
-⇒ Nếu đơn giá đầu vào tăng lên thì GVHB theo FIFO < theo giá bình quân cả kì < theo LIFO (đơn giá giảm thì ngược lại)
-→ LN gộp theo FIFO > giá bình quân cả kì > LIFO (giảm thì ngược lại)
-2/ Kê khai thường xuyên:
-•	FIFO = [SL bán lần đầu] x [Đơn giá của hàng đầu kỳ] + [SL bán lần 2] x …..
-•	LIFO = [SL bán lần gần nhất] x [Đơn giá của lần mua gần nhất] + ….
-•	Giá bình quân cả kỳ : GVHB = Giá bình quân cả kì x (Tổng SL các lần bán)
-******************************
-CHƯƠNG 5: TIỀN VÀ CÁC KHOẢN PHẢI THU
-1.	Thương phiếu phải thu
-•	Bán hàng cho nợ
-Nợ TK phải thu KH
-Có TK doanh thu BH
-Có TK thuế GTGT đầu vào
-•	Bán hàng cho nợ, KH viết 1 tờ thương phiếu
-Nợ TK Thương phiếu phải thu
-Có TK Doanh thu bán hàng
-Có TK Thuế GTGT đầu ra (nếu có)
-•	KH viết 1 tờ thương phiếu thay cho khoản nợ trước đó
-Nợ TK Thương phiếu phải thu
-Có TK phải thu KH
-NẾU THƯƠNG PHIẾU TÍNH THEO NGÀY THÌ QUY ĐỊNH LÀ 1 NĂM LÀ 360 NGÀY, 1 THÁNG 30 NGÀY
-•	Tổng số tiền cả gốc và lãi của Thương phiếu khi đáo hạn (hết xx tháng) = X
-Số tiền chiết khấu thương phiếu: [Số tiền] x [Lãi suất chiết khấu theo năm] x [Thời gian còn lại/12]
-⇒ Số tiền công ty nhận được từ NH = X - Số tiền chiết khấu thương phiếu
-1.	Nợ xấu khó đòi (Nợ xấu)
-•	Xóa sổ trực tiếp
-Nợ TK CP phải thu khó đòi
-Có TK phải thu KH
-•	Trích lập dự phòng (âm - TK điều chỉnh)
-Nợ TK CP nợ ph thu khó đòi
-Có TK dự phòng ph thu khó đòi
-*2 phương pháp tính số tiền phải trích lập dự phòng
-1.	PP % doanh thu chưa thu tiền (doanh thu bán chịu)
-•	ko trừ đi số dư ĐK là của TK dự phòng
-•	= [Doanh thu bán chịu] x [tỉ lệ ước tính không thu hồi được]
-1.	PP nợ phải thu
-•	Có trừ đi số dư ĐK của TK dự phòng
-•	= [Doanh thu bán chịu] x [tỉ lệ ước tính không thu hồi được] - [Số dư đầu kỳ của TK dự phòng]
-***********************************
-CHƯƠNG 6: TÀI SẢN CỐ ĐỊNH
-•	là tài sản có thời gian sử dụng >1 năm hoặc >1 chu kỳ kinh doanh, phục vụ cho các HĐ sản xuất của công ty
-•	Phân loại: 
-o	TSCĐ hữu hình : có hình dạng vật lý cụ thể : MMTB, PTVT, nhà cửa, đất đai
-o	TSCĐ vô hình: Bản quyền, Giấy phép, Lợi thế thương mại
-1.	Mua TSCĐ đưa vào sử dụng ngay
-Nợ TK TSCĐ : (Nguyên giá= Giá mua (ko tính VAT) + Thuế trực tiếp + Chi phí khác - giảm trừ)
-Nợ TK Thuế GTGT đầu vào
-Có TK tiền mặt/ TGNH/ phải trả người bán
-b. Mua TSCĐ nhưng chưa sử dụng ngay:
-Nợ TK mua sắm TSCĐ
-Nợ TK thuế GTGT đầu vào
-Có TK tiền mặt/ TGNH/ PTNB
-c. Hết thời gian chạy thử
-Nợ TK TSCĐHH
-Có TK mua sắm TSCĐ
-1.	Sửa chữa
-•	Sửa chữa nhỏ
-o	Nợ TK chi phí sửa chữa TSCĐ
-Nợ TK Thuế GTGT đầu vào (nếu có)
-Có TK Tiền mặt/ TGNH/ PTNB
-•	Sửa chữa lớn
-o	Nợ TK TSCĐHH
-Nợ TK Thuế GTGT đầu vào
-Chi phí BH trong quá trình vận chuyển TSCĐ từ chỗ bán về → được tính vào Nguyên giá
-Chi phí BH trong quá trình sử dụng sau này
-→ ko tính vào Nguyên giá → tính vào CPBH trả trước
-1.	Trích khấu hao
-VD: Mua máy hết 1 tỉ khấu hao 10 năm theo khấu hao đều
-1/1:
-Nợ TK TSCĐHH: 1 tỉ
-Có TK Tiền: 1 tỉ (giảm)
-31/3:
-Nợ TK Chi phí khấu hao : 33,3tr
-Có TK Khấu hao lũy kế : 33,3tr
-•	PP đường thẳng (Khấu hao đều)
-Chi phí khấu hao 1 năm
-Tỷ lệ KH đường thẳng = 1/ Thời gian sử dụng
-= (Nguyên giá - GT thu hồi ước tính)/Số năm sử dụng ước tính
-1 tháng : Chi phí khấu hao 1 năm/ 12 tháng
-1 quý: Chi phí khấu hao 1 tháng x 3 tháng
-•	PP khấu hao theo sản lượng (theo công suất)
-CPKH mỗi km = (Nguyên giá - GT thu hồi ước tính)/Công suất
-→ VD: Năm thứ nhất đi được 20 000km
-⇒ 20 000 x CPKH mỗi km
-•	PP khấu hao nhanh (KH theo số dư giảm dần)
-Cần biết hệ số KH nhanh
-→ tỉ lệ KH nhanh = tỉ lệ KH theo PP đường thẳng x hệ số KH nhanh
-Lập bảng
-Năm (theo Số năm sử dụng ước tính)
-GT đầu kì (Năm đầu là Nguyên giá, các năm sau là GT cuối kì trước)
-Tỉ lệ KHN (= tỉ lệ KH nhanh)
-CPKH trong kỳ (= tỉ lệ KH nhanh x GT đầu kì)
-KH lũy kế (Năm đầu là CPKH trong kỳ, 
-các năm sau = KH lũy kế năm trước + CPKH trong kỳ của năm nay)
-=> Tỉ lệ KH nhanh = (100%/ thời gian sử dụng dự kiến) x Hệ số KH nhanh
--> Giá trị còn lại: (Nguyên giá x Tỉ lệ KH nhanh) x Tỉ lệ KH nhanh
-________________________________________
-Riêng năm cuối:
-GT cuối kỳ = Giá trị thu hồi ước tính
-⇒ CPKH trong kỳ = GT đầu kỳ - GT thu hồi ước tính
-1.	Thanh lý, nhượng bán
-a. Khấu hao bổ sung tới thời điểm bán
-Nợ TK CPKH
-Có TK khấu hao lũy kế
-(Nếu bài cho là đã trích KH tới thời điểm bán thì ko cần làm bút toán này nữa)
-b. Xóa sổ tài sản (Bắt buộc)
-Nợ TK KH lũy kế : …
-Nợ TK CP khác: (gtri còn lại) (ko ghi CP khác nếu tài sản đã khấu hao hết)
-Có TK TSCĐHH
-c. CP phải trả để thanh lý/ Nhượng bán
-Nợ TK Chi phí khác (Thuế)
-Có TK Tiền mặt/ TGNH/ PTNB
-d. Thu từ thanh lý/ Nhượng bán
-Nợ TK Tiền mặt/ TGNH/ PTNB
-Có TK Doanh thu khác
-Có TK Thuế GTGT đầu ra/ vào
-********************************
-CHƯƠNG 7: NỢ PHẢI TRẢ
-•	Phải trả người bán/ KH ứng trước/ Doanh thu nhận trước/ Thương phiếu phải trả
-1.	Thuế GTGT phải trả (đầu ra thuộc Nợ phải trả) (thuế GTGT đầu vào thuộc TSNH)
-Cuối kỳ: Bút toán khấu trừ thuế
-Nợ TK Thuế GTGT phải trả: Số bé hơn: 80
-Có TK Thuế GTGT được khấu trừ/ đầu vào: 80
-Bút toán nộp thuế:
-Nợ TK Thuế GTGT phải trả: 20
-Có TK Tiền mặt/ TGNH: 20
-1.	Kế toán tiền lương (Phải trả người LĐ)
-Tổng tiền lương + thưởng = Tiền lương thuần + Các khoản giảm trừ lương (Thuế TNCN, Bảo hiểm [BHYT, BHXH, BH thất nghiệp])
-*Người lao động:
-•	BHXH : 8% (của lương cứng)
-•	BHYT: 1,5%
-•	BH thất nghiệp: 1%
-→ Tổng: 10,5%
-*Doanh nghiệp:
-•	BHXH: 17,5% (của lương cứng NLĐ)
-•	BHYT: 3%
-•	BHTN: 1%
-→ Tổng: 21,5%
-⇒ Tổng: 32%
-•	Lương thuần = Lương cứng - Thuế TNCN - Bảo hiểm
-************************
-CHƯƠNG 8: VỐN CHỦ SỞ HỮU
-Vốn CSH cuối kỳ = VCSH đầu kỳ + Góp - Rút + Lợi nhuận
-1.	Cổ phiếu
-Công ty cổ phần được phép phát hành cổ phiếu
-•	Công ty đại chúng
-•	Công ty cổ phần niêm yết
-•	Công ty cổ phần ko niêm yết
-Trái phiếu
-•	Công ty cổ phần được phép phát hành trái phiếu
-•	Công ty TNHH 1 thành viên
-•	Công ty TNHH 2 thành viên
-Công ty phát hành TP → tăng Nợ phải trả <vốn nợ>
-Công ty phát hành cổ phiếu → Tăng vốn CSH
-•	Phân loại 
-o	CP thường: Được tham dự ĐH cổ đông, trả cổ tức (khi công ty lãi)
-o	CP ưu đãi: được trả cổ tức (hàng năm)
-o	CP quỹ: là CP thường đã phát hành nhưng được công ty mua lại
-1.	Định khoản
-a. Cổ phiếu
-•	Phát hành CP: 
-o	Mệnh giá : 10 000
-o	Thị giá
-Nợ TK TGNH: Thị giá x Số lượng
-Có TK CP thường: Mệnh giá x số lượng
-→ Mệnh giá = Thị giá
-•	Thị giá > Mệnh giá: thêm Có TK Thặng dư vốn CP (= (Thị giá - Mệnh giá) x Số lượng
-•	Thị giá < Mệnh giá:
-thêm Nợ TK Thặng dư vốn CP
-(Nợ TK Lợi nhuận chưa phân phối): ghi khi Thặng dư vốn CP ko đủ
-*CP ưu đãi: giống CP thường
-*CP quỹ:
-Nợ TK CP quỹ: số tiền mua (tăng)
-Có TK TGNH: Số tiền mua (giảm)
-*Phát hành lại CP Quỹ (mang dấu âm)
-Nợ TK TGNH: Số tiền thu về (tăng)
-Có TK CP Quỹ: Số tiền thu về (giảm)
-b. Cổ tức (= tiền, Cổ phiếu, Tài sản, Hàng hóa)
-*Trả cổ tức bằng tiền
-1.	Ngày thông báo
-Nợ TK Lợi nhuận Chưa phân phối: SL cổ phiếu x Mệnh giá x tỉ lệ trả cổ tức
-Có TK cổ tức phải trả
-1.	Ngày chốt danh sách cổ đông (Ngày giao dịch không hưởng quyền)
-Không ghi bút toán
-•	Mua vào ngày này: không được trả cổ tức
-•	Bán CP vào ngày này: vẫn được trả cổ tức
-1.	Trả cổ tức 
-****CỔ TỨC = Mệnh giá x Số lượng
-Nợ TK cổ tức phải trả
-Có TK TGNH (giảm)
-*Trả cổ tức = cổ phiếu
-1.	Ngày thông báo
-Nợ TK Lợi nhuận chưa phân phối: Số lượng x Thị giá x Tỉ lệ trả cổ tức
-•	2 trường hợp 
-o	Tỉ lệ trả cổ tức nhỏ (< 20-25%) : → ghi theo thị giá
-o	Tỉ lệ trả cổ tức lớn (>20-25%) : → ghi theo mệnh giá
-Có TK Cổ tức = CP phải phân phối
-               = **SL x mệnh giá x tỷ lệ**
-Có TK Thặng dư Vốn cổ phần: SL x (Thị giá - Mệnh giá) x tỷ lệ
-1.	Ngày chốt DS cổ đông
-2.	Ngày chi trả
-Nợ TK cổ tức = CP phải phân phối
-Có TK CP thường (tăng)
-*************************
-CHỈ SỐ
-•	Tỷ suất lợi nhuận gộp trên doanh thu thuần (Lợi nhuận biên) 
-o	= Lợi nhuận gộp/ Doanh thu thuần
-o	(DT thuần = Tổng DT - các khoản giảm trừ; LNG = DTT -GVHB)
-o	Ý nghĩa: Một đồng doanh thu thuần sinh ra bnh đồng lợi nhuận gộp
-o	Cao sẽ tốt vì LN gộp sẽ bù đắp được chi phí kinh doanh
-•	Tỷ suất GVHB/DTT = 1 - Tỷ suất lợi nhuận gộp trên doanh thu thuần 
-o	= GVHB/ Doanh thu thuần
-o	Ý nghĩa: GVHB chiếm bnhieu % doanh thu thuần
-o	Tỷ lệ này thấp là tốt
-•	Tỷ suất lợi nhuận thuần (LN thuần = LNG - các khoản chi phí + DT tài chính - CP tài chính) 
-o	= Lợi nhuận thuần/ Doanh thu thuần
-o	Ý nghĩa: Một đồng doanh thu sinh ra được bnhieu đồng lợi nhuận thuần
-o	Tỷ lệ này cao phản ánh DN có khả năng sinh lợi tốt
-•	Số luân chuyển hàng tồn kho (Vòng quay hàng tồn kho) 
-o	= GVHB/ Hàng tồn kho bình quân (tính bằng lần or vòng)
-o	Ý nghĩa: Hệ số này cao chứng tỏ DN bán hàng nhanh (cao quá có thể không tốt vì DN có thể thiếu hàng)
-•	Số ngày bán hàng tồn kho 
-o	= 365 ngày/ Số lần luân chuyển hàng tồn kho
-o	Ý nghĩa: Hệ số này nhỏ chứng tỏ DN bán hàng nhanh
-•	Số lần thu nợ phải thu (Vòng quay khoản phải thu) 
-o	= Doanh thu thuần/ Phải thu KH bình quân
-o	Ý nghĩa: Một năm DN thu được nợ bnh lần
-o	Hệ số này cao chứng tỏ DN thu hồi nợ nhanh, không bị KH chiếm dụng vốn
-•	Thời gian thu hồi nợ phải thu 
-o	= 365/ Số lần thu nợ phải thu
-o	Ý nghĩa: Mất bnhieu ngày để DN thu hồi nợ phải thu KH
-o	Số ngày càng nhỏ → DN thu tiền KH nhanh
-•	Hiệu suất sử dụng tổng tài sản (Vòng quay tổng tài sản) 
-o	= Doanh thu thuần/ Tổng tài sản bình quân
-o	Ý nghĩa: Mỗi đồng tài sản sinh ra bnhieu đồng doanh thu thuần. Càng lớn càng tốt
-•	Hiệu suất sử dụng tài sản cố định 
-o	= Doanh thu thuần/ Nguyên giá TSCĐ bình quân
-o	Ý nghĩa: Mỗi dòng TSCĐ sinh ra bnhieu đồng doanh thu thuần. Càng lớn càng tốt
-•	ROA = Return on Assets 
-o	= Lợi nhuận thuần/ Bình quân tổng tài sản
-o	Ý nghĩa: Một đồng tài sản bình quân sinh ra được bnhieu đồng lợi nhuận thuần
-•	Hệ số khả năng thanh toán ngắn hạn (CR: Current Ratio) 
-o	CR = TS ngắn hạn/ Nợ ngắn hạn
-o	Ý nghĩa: Một đồng nợ ngắn hạn được đảm bảo bằng bnhieu đồng tài sản ngắn hạn. Cao là tốt nhưng cao quá lại ko tốt vì giữ nhiều TSNH, khả năng sinh lời thấp
-o	Lớn hơn 1 là tốt
-Vốn lưu động ròng (thuần) = TSNH - Nợ ngắn hạn > 0 là tốt
-•	Hệ số khả năng thanh toán nhanh (QR) 
-o	QR = (TSNH - Hàng tồn kho)/ Nợ ngắn hạn
-o	= (Tiền + đầu tư tài chính ngắn hạn + phải thu KH)/ Nợ ngắn hạn
-o	Ý nghĩa: Khả năng thanh toán nợ ngắn hạn bằng những TS có thể chuyển đổi thành tiền nhanh
-o	1 là tốt
-•	Tỷ suất Lợi nhuận trên Vốn CSH (ROE) 
-o	ROE = Lợi nhuận thuần/ Vốn CSH bình quân
-o	Ý nghĩa: Cao là tốt, nhưng cao quá phản ánh rủi ro nhiều
-•	Lợi nhuận trên 1 cổ phần (EPS) 
-o	= Lợi nhuận cho cổ đông thường (LNST) / Số cổ phần phổ thông đang lưu hành
-o	Ý nghĩa: cao là tốt
-o	LN sau thuế = Lợi nhuận thuần + DT khác - CP khác - CP thuế TNDN
-Anh Chung là kế toán tổng hợp/1.050.000
-Bút toán điều chỉnh lãi thương phiếu/CẢ Bảng cdkt và báo cáo kqkd
-Bán lỗ quần áo 100c/lợi nhuận gộp 900
-Báo cáo kết quả kinh doanh/Trình bày về doanh thu, chi phí
-Báo cáo kết quả kinh doanh/kết quả các hoạt động
-Báo cáo tài chính của Công ty sản xuất Bảo Điền/9 lần
-Biết doanh thu thuần 500.000/Giá vốn 270.000, Lợi nhuận 110.000
-Công ty sửa chữa/150.000
-Công ty DCF/213,6 triệu đồng
-Công ty D/Cổ phần phổ thông 400 và thặng dư 160
-Công ty trúc quỳnh/không có sự thay đổi về tổng tài sản
-Công ty thanh toán nợ lãi vay ký trước/ Tiền gửi NH giảm, Nợ phải trả giảm
-Công ty DG/ Phương pháp LIFO
-Công ty DG/ 245
-Công ty Hùng Thắng/Nợ TK CHI PHÍ LÃI VAY 800, có tk lãi vay phải trả 800
-Công ty Hồng Hà/4.500
-Công ty Halongfood/80.000
-Công ty Elly/250
-Công ty GL/5.200
-Công ty Bee/Tài sản và vốn chủ tăng 6.000
-Công ty BẠCH Quả/ phải trả người lao động 76.630
-Công ty cổ phần Vàng bạc/15%
-Công ty Bảo Điền/34%
-Công ty Anna/Tổng tài sản không đổi
-Công ty Hoa Lan/KHÔNG GHi nhận
-Công ty Hùng Thắng/8 lần
-Công ty Hùng Thắng/Nợ TK DT cho thuê chưa thực hiện 5.000,Có Tk DT cho thuê 5.000
-Công ty Hùng Thắng/14.000
-Công ty vận tải đường thủy Hùng Thắng/Nợ CPBH 7.500, Có Tk BHTT 7.500
-Công ty cổ phần Khaong Xanh/1.000
-Công ty sản xuất bánh gạo A An/Nguyên vật liệu
-Công ty D/Cao hơn mệnh giá
-Công ty Hoàng Lâm/3.430
-Công ty Thùy Linh/Phân bổ vào chi phí kinh doanh trong năm 2018 và 2019
-Công ty Hoa Hồng/2.950
-Công ty Đức Hưng/Phân bổ dần vào chi phí kinh doanh
-Công ty Đức Cương/tăng 50.000
-Công ty mua 10 chiếc xe/tài sản cố định
-Công ty mua một chiếc xe tải/885
-Các nhà quản lý công ty Venice/LIFO
-Các yếu tố ảnh hưởng đến khấu hao tài sản cố định/Nguyên giá và giá trị thu hồi
-Chuyển khoản thanh toán tiền thuê VP/Nợ Tk chi phí trả trước, có tk tiền gửi ngân hàng
-Cổ tức bằng cổ phiếu/Có thể giúp các cổ đông
-Chỉ tiêu phản ánh kết quả kinh doanh/Lợi nhuận chưa phân phối
-Chi phí thuê tân trang/Nợ TK Chi phí khác
-Chi phí khấu hao cho một kỳ kế toán/Giá thị trường của TSCD
-Chi phí sửa chữa, bảo dưỡng/Ghi nợ chi phí sửa chũa tscd
-Chi phí vận chuyển hàng hóa trả hộ/tĂNG KHOẢN PHẢI THU KHÁC hoặc giảm trừ phải trả người bán
-Chu kỳ kinh doanh của một công ty thương mại/dài hơn chu kỳ kinh doanh một công ty sản xuất
-Chiết khấu được hưởng/Nợ TK Tiền mặt, Có TK hàng hóa
-Cuối kỳ, công ty sản xuất bánh gạo/Sẳn phẩm dở dang
-Cuối kỳ, kế toán ghi nhận bút toán/ tăng và giảm
-Cuối kỳ, khi thực hiện bút toán điều chỉnh/giảm ợ phải trả, tăng doanh thu
-Cho số dư liên quan đến người bán công ty SAO MỘC/Phải trả NB 75.000 và Ứng trước cho NB 10.000
-Cho số dư liên quan đến khách hàng công ty SAO MỘC/Phải thu khách hàng 30.000 và Khách hàng ứng trước 64.000
-Cho số dư đầu kỳ tk thuế gtgt/Nợ tk thuế gtgt phải nộp 22.800.000
-DN hoàn thành cung cấp dịch vụ/Tổng vốn CSH tăng, tổng tài sản tăng
-DN sử dụng phương pháp kê khai thường xuyên/Trong trường hợp bán hàng và nhận lại hàng bán trả lại
-DN tính thuế GTGT theo phưogn pháp khấu trừ/tăng lợi nhuận khác 40.600
-Đầu kỳ công ty Thiên An/95.000ơng phiếu/CẢ Bảng cdkt và báo cáo kqkd
-Để ghi số dư đầu kỳ cho từng tài khoản/bảng cân đối kế toán kỳ trước
-Khi DN dùng tiền mặt 5.000.000/Tăng tạm ứng và giảm tiền mặt
-Khi DN dùng tiền mặt ứng trước/Quy mô tài sản
-Khi công ty phát hành cổ phiếu/bên có tk vốn góp csh với phần mệnh giá cổ phiếu
-Khi lập báo cáo, kế toán ghi nhầm/tài sản lớn hơn nguồn vốn 400
-kHI Lập BCTC, kế toán phản ánh chi tiêu/Tài sản tăng, NGuồn vốn tăng
-Khi công ty chi trả cổ tức/Bên Nợ TK cổ tức phải trả
-Khi lập bảng cân đối kế toán/Là nợ phải trả ngắn hạn
-Khi hàng tồn kho cuối kỳ thấp/giá vốn hàng bán lớn hơn
-Khi phát sinh khoản chiết khấu/có tk hàng hóa
-Khi phát sinh nghiệp vụ chi tiền mặt/có tk tiền mặt
-Khi bán hàng cho khách hàng thu bằng tiền mặt, kế toán ghi/Nợ TK tiền mặt, có tk doanh thu bán hàng
-Khi khách hàng thanh toán ngoài thời hạn/Phải thu khách hàng 2.500
-Khi thay đổi phương pháp tính giá xuất/Giá trị hàng hóa sẵn sàng
-Khi thực hiện kế toán các khoản phải thu/Theo dõi chi tiết từng đối tượng nợ và theo thời hạn nợ
-Kế toán ghi nhận chi phí vân chuyển/Ảnh hưởng tới cả TSCD và Chi phí
-Kế toán ghi bên có tk"pHẢI TRẢ NGƯỜI LAO ĐỘNG"/cuối kỳ kế toán
-Khoản mục nào sau đây không được công khai/Số lượng hàng tồn kho 
-Lãi vay cho khoản 225.000/4.500
-Lợi nhuận giữ lại là/Phần lợi nhuận giữu lại sau khi chia cổ tức
-Lựa chọn phương pháp giả định để tính toán/nhà quản lý doanh nghiệp
-Mua nguyên vật liệu nhập kho theo giá cả thuế gtgt/Nợ nvl 60. nợ thuế gtgt 6, có tgnh 33, có ứng trước 33
-Mua nguyên vật liệu nhập kho/Nợ TK NVL, Nợ TK thuế gtgt, có tk ứng trước cho người bán
-Mua nguyên vật liệu nhập kho/Nợ TK NVL, Nợ TK thuế gtgt, có tk tạm ứng
-Mua hàng hóa nhập kho với giá mua cả thuế/nợ hàng hóa 40, nợ thuế 4, có tiền gửi NH 44
-Mục tiêu của kế toán/Xác định, đo lường và truyền đạt
-Một giao dịch của công ty B/Nợ hàng hóa 49, nợ thuế 4.9,có tk tiền 53,9
-Một tài sản cố định/97,2
-Một số thông tin công ty Minh Hoa/30.000
-Một công ty cổ phần có số dư/SỐ CỔ PHẦN phát hành là 30.000
-Một công ty thương mại chuyên kinh doanh/Tài sản cố định hữu hình
-Mối quan hệ nợ phải trả - doanh thu/bút toán điều chỉnh doanh thu chưa thực hiện
-NGuyên vật liệu doanh nghiệp đã mua/tài sản ngắn hạn
-NGuyên tắc bất kiêm nhiệm/Giúp giảm thiểu gian lận
-Nếu công ty M/Cổ phần phổ thông ghi có 450
-Nếu công ty không thưucj hiện bút toán/tài sản bị báo cáo cao
-Nếu nột dịch vụ đẫ được sử dụng trong kỳ/mỘT KHoản chi phí nên được ghi hóa đơn chuyển đến
-Nếu Doanh nghiệp ước tính dự phòng nợ/Doanh thu bán chịu trong 
-Nhượng bán 1 thiết bị/Lỗ từ việc nhượng bán thiết bị 40.000
-Nhượng bán 1 thiết bị/Lỗ 49.000
-Người bán cổ phiếu cả công ty trên thị trường/ngày chốt danh sách
-Nghiệp vụ mua một thiết bị dùng/ảnh hưởng tới tài sản cố định và hàng hóa
-Nghiệp vụ trích lợi nhuận lập quỹ khen/tổng nguồn vốn không đổi 
-NGÀY 1/9/20X9 /có tk tiền mặt 31.130.000
-NGày 20/12/20x9 /Ghi tăng phải trả người bán 45.276.000
-Ngày 01/06/N+2 / 20,25(hoặc 21) , CP khác 29,75 , 50
-Ngày 01/01/N+2 /80,170,250
-Ngày 1/10/N, công ty DOTA/Nợ tk lãi vay phải trả 60.000
-NGày 1/6/N /2.400
-Ngày 3/9/2019 /Có TK Vốn góp của CSH 26.000.000
-Nhận định nào sau đây sai nếu công ty áp dụng kê khai thường xuyên/Kiểm kê thực tế hàng tồn kho
-Phần lợi nhuận của doanh nghiệp sau khi nộp thuế/trả tiền phạt, bù các khoản lỗ,...
-Phần thuế GTGT đầu vào được khấu trừ/...tăng,...tăng,...giảm (dài nhất)
-Phần thuế GTGT đầu vào được khấu trừ sai nguyên giá tscd/tscd tăng, thuế giảm
-Phần chi phí hoạt động kinh doanh trong báo cáo/Giá vốn hàng bán
-Phát biểu đúng TK KHẤU HAO LŨY KẾ tscd/TK phản ánh tài sản, nhưng...
-Phương pháp khấu hao nào mà mức/Phương pháp khấu hao theo đường thẳng
-Quý 4/N, Công ty Thành Đạt/34.000.000
-Sổ bảo hiểm xã hội/Nợ tk chi phí lương, có tk bhxh
-số dư có của tk hao mòn tscd/không có đáp án nào đúng
-Saharh Jone/1.560.000
-Sẽ không cần thiết phải điều chỉnh/Hoạt động của đơn vị không phân chia kỳ kế toán
-Số thuế thu nhâppj cá nhân/ Tổng thu nhập chịu thuế
-số dư cuối kì tk tiền mặt 43.000.000/31.500.000
-Tại ngày 31/12/2019 /20.000
-Tại công ty Hồng Hà/ 6.000
-Trường hợp nào sau đây ghi cso tk"Phải trả người lao động"/Tính ra số phụ cấp người lao động được hưởng
-Trong điều kiện giá hàng hóa mua vào tăng/FIFO sẽ có hàng tồn kho cuối kỳ cao nhất
-Trong trường hợp nào thì giá vốn hàng bán/tất cả
-Trong Doanh nghiệp Thương mại/Chu kỳ kinh doanh dài hơn doanh nghiệp dịch vụ
-Trong niên độ tài chính năm N/ GIẢM 40.000
-Trong năm 20XX, Công ty Viva/48.000
-Trong năm 2023/4,0 lần
-Trong tháng 5/150 triệu
-Trong tháng 8 năm 2023/24.500
-Thông tin trên bảng lương 6/20x9 /70.075
-Thông tin trên bảng lương 7/20x9 /Nợ Tk phải trả người lao động 50.990
-Thông tin nào không ảnh hưởng đến giá gốc nhập kho hàng hóa mua về/Ứng trước tiền cho người bán
-Thông tin sau đây có sẵn công ty Bảo Điền/5,25 lần
-Thực hiện bút toán khóa sổ trong trường hợp/Nợ LỢI NHUẬN 10.000, CÓ XDKQKD 10.000
-Thương phiếu phải thu phát sinh/Khách hàng mua tài sản
-Thị giá cổ phiếu/có thể lớn hơn hoặc nhỏ hơn 
-Tổng thu từ bán hàng trong tháng của Minh Minh/8.450.000
-Tất cả các BCTC/Bảng cân đối kế toán
-Tài khoản "THăng dư vốn cổ phần"/Là tài khoản phản ánh vốn csh
-Tỷ lệ chi trả cổ tức/Số lượng cổ phiếu
-Tỷ lệ lợi nhuận gộp trên doanh thu là 40%/Doanh thu 120.000, Giá vốn 72.000
-Tỷ suất giá vốn hàng bán trên doanh thu/Tỷ suất lợi nhuận gộp giảm
-Thị giá cổ phiếu/Có thể lớn hơn hoặc nhỏ hơn
-Tài sản tiền mặt có kết cấu/Nợ ghi tăng tiền mặt
-Theo kết quả kiểm kê hàng tồn kho/262 triệu
-Vốn chủ sở có thể tăng lên do/Công ty phát hành cổ phiếu cao hơn mệnh giá
-Vốn chủ sở hữu được tăng bởi/Doanh thu
-Vào ngày 1 tháng 7/Nợ tk chi phí thuê nhà 3.750, có tk tiền thuê nhà trả trước 3.750
+##### BIỂU HIỆN
+_ Biểu hiện đặc trưng của cuộc cách mạng công nghiệp lần thứ tư là sự xuất hiện các công nghệ mới có tính đột phá về: D) cả 3 đáp án đều đúng (trí tuệ nhân tạo, in 3d, big data)
+_ Biểu hiện mới của chủ nghĩa tư bản độc quyền nhà nước là: Tỷ trọng kinh tế nhà nước trong nền kinh tế tư bản chủ nghĩa tăng lên, sự kết hợp giữa kinh tế nhà nước và kinh tế tư nhân tăng lên, chi tiêu tài chính của các nhà nước tư bản phát triển để điều tiết kinh tế tăng lên.
+
+##### 
+_ Ba hình thái tuần hoàn của tư bản theo thứ tự như thế nào -> tư bản tiền tệ sản xuất hàng hóa
+
+
+C *******************************************
+##### CHỌN CÂU TRẢ LỜI ĐÚNG
+- Chọn câu trả lời đúng: Đối tượng nghiên cứu của KTCT: Có đối tượng nghiên cứu chung qua mỗi giai đoạn pt của lịch sử
+_ Chọn câu trả lời đúng nhất: Chính sách kinh tế có thể không phù hợp với quy luật kinh tế
+
+##### CHỌN ĐÁP ÁN ĐÚNG
+- Chọn đáp án đúng về hệ quả của tích lũy tư bản: TLTB làm tăng cấu tạo hữu cơ của tư bản, tăng tích tụ và tập trung tư bản
+- Chọn đáp án đúng: Cấu tạo gtri của tư bản là mqh tỷ lệ giữa tư bản bất biến (c) và tư bản khả biến (v)
+- Chọn đáp án đúng: Tích tụ tư bản: Là quá trình tư bản hóa gtri thặng dư (là kqua trực tiếp qtr tích lũy tư bản)
+- Chọn đáp án đúng: Giá cả độc quyền gồm: Chi phí sx (K) + lợi nhuận độc quyền
+- Chọn đáp án đúng: Các nhân tố ảnh hưởng tới quy mô tích lũy là: Tỷ suất giá trị thặng dư, ndlđ, tư bản ứng trước, sd hiệu qả máy móc
+- Chọn đáp án đúng về tác động tích cực của độc quyền đối với nền kt: Thúc đẩy tiến bộ kĩ thuật; làm tăng nslđ; góp phần thúc đẩy nền kt pt theo hướng sx lớn hiện đại
+_Chọn loại đáp án đúng nhất. Sở hữu là: ) Quan hệ giữa người với người trong việc chiếm hữu của cải
+_ Chọn đáp án đúng nhất: Thời gian lao động mà người công nhân tạo ra giá trị ngang bằng giá trị sức lao động
+_ Chọn đáp án đúng. Nguồn gốc của tích lũy tư bản là :giá trị thặng dư
+_ Chọn đáp án đúng nhất. Trong quan hệ sở hữu của cải vật chất, giữ vai trò quyết định là: C) Sở hữu tư liệu sản xuất
+_ Chọn đáp án đúng nhất. Sự vận động, biến đổi và phát triển của quan hệ sở hữu chịu sự quy định bởi: B/ Quy luật quan hệ sản xuất phù hợp với tính chất và trình độ phát triển của lực lượng sản xuất
+_Chọn đáp án đúng. Cấu tạo hữu cơ của tư bản là cấu tạo giá trị được quyết định bởi cấu tạo kỹ thuật và phản ánh sự biến đổi của cấu tạo kỹ thuật. C) Cấu tạo hữu cơ của tư bản là cấu tạo giá trị được quyết định bởi cấu tạo kỹ thuật và phản ánh sự biến đổi của cấu tạo kỹ thuật
+_ Chọn đáp án đúng. Bản chất của tích lũy tư bản: Là tư bản hóa giá trị thặng dư
+_ Chọn đáp án đúng về Giá trị của hàng hóa: LÀ LAO ĐỘNG CỦA NGƯỜI SẢN XUẤT HÀNG HÓA KẾT TINH TRONG HÀNG HÓA
+_Chọn đáp án đúng nhất về tác động tiêu cực của độc quyền đối với nền kinh tế. B) Gây nên tình trạng cạnh tranh không hoàn hảo, kìm hãm sự tiến bộ kỹ thuật, kìm hãm sự phát triển kinh tế xã hội, làm tăng sự phân hóa giàu nghèo
+_ Chọn đáp án đúng nhất. Sở hữu là: Quan hệ giữa người và người trong việc chiếm hữu của cải
+
+
+##### CHỌN ĐÁP ÁN SAI
+_ Chọn đáp án sai: Thị trường biểu hiện dưới hình thái: chợ, cửa hàng, siêu thị…
+_ Chọn đáp án Sai: Hàng hóa sức lao động và hàng hóa thông thường giống nhau ở điểm: Đều mang yếu tố tinh thần và lịch sử.
+
+
+##### CHỌN PHƯƠNG ÁN ĐÚNG
+- Chọn p/án đúng: Tất cả các p/án đều đúng (Người sx là những người trực tiếp tạo ra…; Mục tiêu của người sx là tìm kiếm lợi nhuận; Người sx phải có trách nhiệm đối với người tdung…)
+- Chọn p/án đúng: Nslđ tăng, lượng gtri của 1 đơn vị hàng hóa giảm
+_ Chọn phương án đúng nhất phản ánh tương quan giữa giá cả ruộng đất với mức địa tô hàng năm và tỷ suất lợi tức tiền gửi ngân hàng -> A) Giá cả ruộng đất tỷ lệ thuận với mức địa tô hàng năm và tỷ lệ nghịch với tỷ suất lợi tức tiền gửi ngân hàng
+_ Chọn phương án đúng: Dịch vụ là hàng hóa vô hình
+_ Chọn phương án đúng phản ánh tương quan giữa giá cả ruộng đất với: mức địa tố hàng năm và tỷ
+suat Ioi turc tien giri ngan hang. giá cả ruộng đất tỷ lệ thuận với mức địa tô hàng năm và tỷ lệ nghịch với tỷ suất lợi tức tiễn gửi ngân hàng.
+_ Chọn phương án đúng: 1 mét vải = 10kg thóc. A) Giá trị của hàng hóa vải được biểu hiện ở hàng hóa thóc
+_ Chọn phương án đúng: A) Người tiêu dùng là những người mua hàng hóa, dịch vụ trên thị trường để thỏa mãn nhu cau tieu dung. B) Sức mua của người tiêu dùng là yếu tố quyết định sự thành bại của người sản xuất.C) Người tiêu dùng có vai trò quan trọng trong định hướng sản xuất. = Tất cả các đáp án đều đúng
+_ Chọn phương án điền vào chỗ trống để có khái niệm đúng : (...) của một quốc gia là quá trình quốc gia đó thức hiện gắn kết nền kinh tế của mình với nền kinh tế thế giới dựa trên sự chia sẻ lợi ích đồng thởi tuân thủ các chuẩn mực quốc tế chung) Hội nhập kinh tế quốc tế
+
+
+##### CHỌN PHƯƠNG ÁN SAI
+- Chọn p/án sai: Ý nghĩa lý luận của việc nghiên cứu tuần hoàn của tư bản là gì?: Thấy rõ hơn gtr thặng dư được tạo ra do mua rẻ, bán đắt
+- Chỉ ra p/án sai: Trong p/án sx giá trị thặng dư tuyệt đối thời gian thay đổi ntn: Kéo dài tgian lđ trong ngày
+
+##### CHỌN PHƯƠNG ÁN ĐIỀN CHỖ TRỐNG
+- Chọn p/án điền vào chỗ trống để có khái niệm đúng: ..CNH HĐH.. là quá trình chuyển đổi nền sx xh từ dựa trên lđ thủ công là chính sang dựa chủ yếu trên lđ bằng máy móc nhằm tạo ra nslđ xh cao
+_ Chọn phương án điền vào chỗ trống …. là mối quan hệ tỉ lệ giữa các ngành, các vùng và các thành phần kinh tế: -> cơ cấu kinh tế
+
+
+ ##### CHO BIẾT TRONG SỐ 
+_ Cho biết trong số những phương án dưới đây, phương án nào phản ánh không đúng về quan hệ sở hữu? A) Là quan hệ giữa con người và vật
+_Cho biết trong số các phương án dưới đây, phương án nào không thuộc chức năng của nhà nước Việt Nam trong nền kinh tế thị trường định hướng xã hội chủ nghĩa: A) Định giá cả hàng hoá cho các doanh nghiệp.
+_ Cho biết trong sõ các phương án dưới đây, phương án nào không thuộc chức năng của nhà nước Việt Nam trong nền kinh tế thị trường định hướng xã hội chủ nghĩa: Quản lý hoạt động sản xuất kinh doanh của các doanh nghiệp nhà nước
+- Cho biết, trong số các nhân tố sau đây, nhân tố nào không ảnh hưởng trực tiếp đến tỷ suất lợi tức: Trình độ phân công lđ xh
+_ Cho biết phương án nào không thuộc chức năng của nhà nước: quản lý hoạt động kinh doanh của các doanh nghiệp nhà nước
+
+
+ ##### CHO BIẾT 
+- Cho biết tỷ suất lợi nhuận bình và lợi nhuận bình quân được hình thành trong qtrinh: Cạnh tranh giữa các ngành
+_ Cho biết, tỷ suất lợi nhuận phản ánh điều gì?Phản ánh mức doanh lợi đầu tư tư bản
+- Cho biết giá cả sx là hình thái chuyển hóa của gtri hàng hóa trong giai đoạn: Cạnh tranh tự do của chủ nghĩa tư bản (sinh ra lợi nhuận bình quân)
+_ Cho biết việc thực hiện nhất quán chính sách kinh tế nhiều thành phần có tác động như nào đến sự phát triển của kinh tế thị trường định hướng xhcn ở vn -> Hình thành những chủ thể kinh tế độc lập, có lợi ích riêng. Làm phong phú thêm đội ngũ các chủ thể kinh tế tham gia vào thị trường.
+_ Cho biết trong số các tập đoàn sở hữu sau, tập đoàn sở hữu nào có thu nhập với tên gọi là lợi tức? Tư bản cho vay
+_ Cartel (Cac-ten) là hình thức tổ chức độc quyền được thành lập trên cơ sở nào? C) Ký kết các hiệp định, thỏa thuận
+_ Cho biết, trong giai đoạn tự do cạnh tranh của chủ nghĩa tư bản, giá trị thặng dư có hình thái chuyển hóa thành: D) Lợi nhuận bình quân
+_Cho biết việc thực hiện nhất quán chính sách kinh tế nhiều thành phần có tác động như thế nào đến sự phát triển của kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam? D) Hình thành những chủ thể kinh tế độc lập, có lợi ích riêng. Làm phong phú thêm đội ngũ các chủ thể kinh tế tham gia vào thị trường.
+
+
+##### NHẮC ĐẾN CÁCH MẠNG CN
+- Cách mạng công nghiệp 
+    - lần t1: giữa 18 đến giữa 19
+    - lần t2: cuối 19 đến giữa 20 
+    - lần t3: 60s của 20 đến cuối 20
+_ Cách mạng công nghiệp lần thứ 3 diễn ra khi-> cả 3 đáp ná đều đúng: tiến bộ hạn tầng điện tử máy tính số hóa
+_ Cách mạng công nghiệp lần thứ nhất: BẮT ĐẦU TỪ NƯỚC ANH
+_ Các cuộc cách mạng công nghiệp làm cho: -> cả 3 đáp án đều đúng :máy móc thay thế chân tay, tài sản cố định thường xuyên được đổi mới, quá trình tập trung sản xuất được đẩy nhanh
+_ Các cuộc cách mạng công nghiệp đã làm cho : Các yếu tố đầu vào của sản xuất đã thay đổi căn bản
+- Các cuộc cách mạng công nghiệp đã làm thay đổi: Tư liệu lao động, đối tượng lđ và trình độ nhân lực
+
+
+##### CÁC
+- Các bộ phận cơ bản của thể chế kinh tế bao gồm: Hệ thống pháp luật về kt của NN và các qtac xh được NN thừa nhận, hệ thống các chủ thể...; các cơ chế, pp, thủ tục thực hiện…
+_Các bộ phận cơ bản của thể chế kinh tế bao gồm?”→ B) Hệ thống pháp luật về kinh tế của nhà nước và các quy tắc xã hội được nhà nước thừa nhận, hệ thống các chủ thể thực hiện các hoạt động kinh tế; các cơ chế, phương pháp, thủ tục thực hiện các quy định và vận hành nền kinh tế.
+
+
+##### CHỦ NGHĨA
+_ Chủ nghĩa tư bản độc quyền nhà nước hình thành và phát triển rõ nét từ: GIỮA TK 20
+_ Chủ nghĩa tư bản độc quyền ra đời là do -> Các phương án trên đều đúng: Sự phát triển của tín dụng TBCN,Sự phát triển của LLSX dưới tác động của cách mạng công nghệ,Cạnh tranh tự do và khủng hoảng kinh tế
+_ Chủ nghĩa tư bản có vai trò như nao:  tất cả các đáp án đều đúng
+
+
+##### CHỨC NĂNG
+- Chức năng thực tiễn của KTCT Mác là: Cả 3 p/án trên (Quá trình điều chỉnh các csach...; vận dụng các quy luật...; điều chỉnh các hành vi cá nhân...)
+_ Chức năng nào của kinh tế chính trị Mác- Lênin cung cấp hệ thống tri thức mở về những quy luật chi phối sự phát triển của sản xuất và trao đổi gắn với phương thức sản xuất: Chức năng nhận thức
+
+
+##### CÔNG THỨC
+_ Công thức lưu thông hàng hoá giản đơn là công thức nào: -> B) T – H – T’
+_ Công thức xác định lợi nhuận là) p = G -k
+
+
+##### 
+_ Cơ chế kinh tế của chủ nghĩa tư bản độc quyền nhà nước là sự dung hợp của: C) Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước.
+- Căn cứ vào tính chất và cơ chế vận hành của thị trường, ngta có thể chia ttrg thành: Ttrg tự do, ttrg có điều tiết, ttrg cạnh tranh hoàn hảo và ttrg cạnh tranh k hoàn hảo
+_ C.Mác gọi chứng khoán, chứng quyền và các giấy tờ có giá là gì? Tư bản giả
+_ Chi phí sản xuất tư bản chủ nghĩa là. A) Chi phí về tư bản bất biến và tư bản khả biến mà nhà tư bản bỏ ra để sản xuất hàng hóa
+_ Có 3 nhân tố quy định tính tất yếu khách quan của sự tồn tại và phát triển kinh tế thị trường định hưởng xã hội chủ nghĩa ở Việt Nam, đó là: 1) ....., 2) Do tính ưu việt của kinh tế thị trường trong thúc
+đầy phát triển; 3) Do đó là mô hình kinh tế thị trường phù hơp với nguyên vọng của nhân dân mong muốn dân giàu, nước mạnh, dân chủ, công bằng, văn minh.
+Lựa chọn từ các phương án cho sẵn dưới đây để điền vào nhân tố còn để trống.
+	ĐA: Yêu cầu củng cố, tăng cường vai trò kinh tế của nhà nước
+Phát triển kinh tế thị trường định hướng xã hội chủ nghĩa là phủ hợp với tính quy luật phát triển khách
+
+
+
+D ******************************************
+##### ĐÂU KHÔNG PHẢI/ĐÂU LÀ
+- Đâu không thuộc đối tượng của sở hữu NN trong giai đoạn CNTB độc quyền NN: Những tài sản thuộc sở hữu tư nhân
+- Đâu không phải là khuyết tật của nền kt ttrg: Phân bổ nguồn lực sx hiệu quả
+_ Đâu ko phải là biểu hiện mới của xuất khẩu tư bản trong điều kiện lịch sử mới: đại bộ phần dòng đầu tư lại chảy qua lại giữa các nước tư bản phát triển với nhau
+_Đâu không phải là cách thức hình thành sở hữu nhà nước trong giai đoạn CNTB độc quyền Nhà nước. D) Mua lại những xí nghiệp đang hoạt động ở nước ngoài
+_Đâu là những tác động tiêu cực của cạnh tranh trong nền kinh tế thị trường? D) Tất cả các đáp án đều đúng (Gồm: Cạnh tranh không lành mạnh gây tổn hại đến môi trường kinh doanh; Cạnh tranh không lành mạnh gây lãng phí các nguồn lực của xã hội; Cạnh tranh không lành mạnh làm tổn hại đến phúc lợi xã hội)
+
+
+##### ĐIỀN
+_ Điền vào chỗ trống: "... là lao động của người sản xuất hàng hoá không kể đến hình thức cụ thể của nó, đó là sự hao phí sức lao động nói chung của người sản xuất hàng hoá về cơ bắp, thần kinh, trí óc" A) Lao động trừu tượng
+_ Điền thuật ngữ thích hợp vào chỗ trống “ … đẻ ra tập trung sản xuất và sự tập trung sản xuất này, khi phát triển đến mức độ nhất định, lại dẫn tới độc quyền”: TỰ DO CẠNH TRANH
+
+
+##### ĐẶC TRƯNG
+- Đặc trưng của cuộc các mạng công nghiệp lần thứ 3: Sử dụng công nghệ thông tin và tự động hóa
+_ Đặc trưng của hàng hóa sức lao động là gì?A) Sức lao động gắn với quá trình sản xuất hàng hóa
+
+
+##### ĐỘNG LỰC
+_ Động lực của người sản xuất là -> tất cả đều đúng: mở rộng phát triễ sản xuất, đáp ứng nhu cầu ng tiêu dùng , lợi nhuận tối đa
+_ Động lực của người sản xuất hàng hóa là: Lợi nhuận tối đa
+
+##### ĐỊA TÔ
+- Địa tô chênh lệch là: địa tô thu được ở trên những ruộng đất có lợi thế về điều kiện canh tác
+_  Địa tô chênh lệch II là: A) Địa tô thu được do thâm canh
+_Địa tô chênh lệch I là: B) Địa tô thu được trên những ruộng đất có độ màu mỡ tự nhiên tốt hơn, có lợi về vị trí địa lý.
+
+##### 
+- Điểm tiêu cực của hội nhập ktqt là: Làm tăng khoảng cách giàu nghèo và bất bình đẳng xh
+_ Điều kiện để sức lao động trở thành hàng hóa -> Đáp án đúng: A) Người lao động được tự do về thân thể và không có tư liệu sản xuất
+_ Dòng lý thuyết Kinh tế chính trị được định danh với tên gọi là Kinh tế chính trị Mác-
+Lênin vì: Do C. Mác và Ph. Ăngghen sáng lập, Lênin tiếp tục kế thừa, bổ sung, phát triển
+
+
+G *****************************************
+- Giới hạn vận động của tư bản trong công thức chung của tư bản: Là vận động không có giới hạn (vô hạn)
+_“Giá cả hàng hóa trên thị trường KHÔNG phụ thuộc vào yếu tố nào sau đây?”→ Đáp án đúng là: D) Theo quyết định của nhà nước.
+_Gây nên tình trạng cạnh tranh không hoàn hảo, kìm hãm sự tiến bộ kỹ thuật, kìm hãm sự phát triển kinh tế xã hội, làm tăng sự phân hóa giàu nghèo. B) Gây nên tình trạng cạnh tranh không hoàn hảo, kìm hãm sự tiến bộ kỹ thuật, kìm hãm sự phát triển kinh tế xã hội, làm tăng sự phân hóa giàu nghèo
+
+
+H ********************************************
+##### HÃY CHỈ RA
+- Hãy chỉ ra trong số những p/án dưới đây, p/án nào không nằm trong số những công cụ điều tiết vĩ mô của NN trong nền kttt định hướng xhcn ở VN: Giá cả thị trường
+- Hãy chỉ ra trong số những p/án dưới đây, p/án nào không đúng với vtro kt tư nhân ở VN hiện nay: Định hướng xhcn cho sự vận động của nền kt nhiều thành phần
+_Hãy chỉ ra  phương án không nằm trong số công cụ điều tiết vĩ mô của nhà nước trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở VN: cung cầu
+
+##### HÃY CHỌN RA
+- Hãy chọn ra trong các p/án trả lời, p/án nào diễn đạt đúng về địa tô tư bản chủ nghĩa: là một phần của lợi nhuận bình quân mà nhà tư bản kdoanh nông nghiệp nộp cho địa chủ
+- Hãy chọn ra trong các p/án trả lời, p/án nào diễn đạt sai về địa tô chênh lệch: Địa tô chênh lệch II là địa tô thu được trên những ruộng đất có độ màu mỡ tự nhiên tốt hơn, có lợi thế về vị trí địa lý và điều kiện tự nhiên
+_ Hãy chọn ra phương án đúng diễn đạt về địa tô tư bản chủ nghĩa -> địa tô tbcn là một phần củ lợi nhuận bình quân mà tư bản kinh doanh nông nghiệp nộp cho địa chủ
+_ Hãy chọn ra trong các phương án trả lời, phương án nào diễn đạt sai về chi phí sản xuất tư bản chủ (TBCN) nghĩa? Chi phí sản xuất TBCN tạo ra giá trị thặng dư. (k = c + v Trong đó c là tư bản bất biến, v là tư bản khả biến chỉ có v mới tạo ra GTTD nên B sai)
+
+##### HÃY LỰA CHỌN
+- Hãy lựa chọn p/án để điền vào chỗ trống: "Lợi nhuận bình quân là lợi nhuận thu được theo ..tỷ suất.. lợi nhuận bình quân"
+- Hãy lựa chọn trong số các p/án cho sẵn dưới đây, p/án nào thuộc về đặc trưng bản chất của nền kt ttrg định hướng xhcn ở VN: Đi đôi với việc pt lực lượng sx hiện đại, thì phải xây dựng qh sx tiến bộ, phù hợp
+_Hãy lựa chọn phương án điền vào đvăn: địa tô là phần giá trị thặng dư sau khi đã khấu trừ đi phần … mà các nhà tư bản kinh doanh trên lĩnh vực nông nghiệp phải trả cho địa chủ -> lợi nhuận bình quân 
+_Hãy lựa chọn phương án để điền vào chỗ trống [....] của đoạn văn sau: "Giá trị hàng hoá, được quan niệm là con đẻ của ............. mang tính thời chuyển hóa thành lợi nhuận". A) Tư bản bất biến
+_ Hãy lựa chọn phương án để điền vào chỗ trống (....) trong đoạn văn sau đây: "địa tô là phần giá trị thặng dư còn lại sau khi đã khấu trừ đi phần lợi nhuận bình quân mà .......................... phải trả cho địa chủ". B) các nhà tư bản kinh doanh trên lĩnh vực nông nghiệp
+_ Hãy lựa chọn trong số các phương án cho sẵn dưới đây, phương án nào thuộc về đặc trưng bản chất của nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam: LÀ PHƯƠNG THỨC ĐỂ PHÁT TRIỂN LỰC LƯỢNG SẢN XUẤT, XÂY DỰNG CSVC - KT CỦA CNXH; NÂNG CAO ĐỜI SỐNG NHÂN DÂN, THỰC HIỆN DÂN GIÀU NƯỚC MẠNH, DÂN CHỦ, CÔNG BẰNG, VĂN MINH.
+
+##### HÃY SẮP XẾP/SO SÁNH
+_ Hãy sắp xếp sự phát triển các hình thái giá trị: Hình thái giản đơn, hình thái toàn bộ, hình thái chung, hình thái tiền tệ.
+_ Hãy so sánh về mặt lượng tỷ suất lợi nhuận và tỷ suất giá trị thăng dư: với cùng một lượng tư bản ứng trước, cùng một lượng giá trị thặng dư thu được, thi: • Tỷ suất lợi nhuận nhỏ hơn tỷ suất giá trị thặng dư.
+
+
+##### 
+- Hình thức xuất khẩu tư bản trong chủ nghĩa tư bản ngày nay chủ yếu là: Xuất khẩu tư bản kết hợp với xuất khẩu hàng hóa
+- Hình thức tổ chức độc quyền nào sau đây chưa xuất hiện trong gđoan cuối thế kỉ 19 đầu tk 20: Concern và Conglomerate
+- Hàng hóa là gì: sản phẩm của lđ, có thể thỏa mãn 1 nhu cầu nào đó của cng thông qua trao đổi, mua bán
+_ Hao mòn vô hình của tư bản cố định là gì? LÀ HAO MÒN THUẦN TÚY VỀ GIÁ TRỊ
+_ Hệ thống lý luận chính trị đầu tiên nghiên cứu về nền sản xuất TBCN: CHỦ NGHĨA TRỌNG THƯƠNG
+
+
+K ******************************************
+- Khi nào thì tiền mang hình thái là tư bản: Khi nó được sd để bóc lột sức lđ của người khác
+- KTCT nghiên cứu: Những quan hệ xh giữa người với người trong sx và trao đổi
+- Khác nhau giữa pp sx gtri thặng dư tuyệt đối và tương đối không phải là p/án nào dưới đây: PP tuyệt đối kéo dài tg lđ cần thiết còn pp tương đối giữ nguyên
+    - Đúng: PP tuyệt đối kéo dài ngày lđ, pp tương đối rút ngắn tg lđ xh cần thiết
+    - Thực chất: PP tuyệt đối là tăng cường độ lđ, pp tương đối là tăng nslđ
+_ Khối lượng giá trị thặng dư phản ánh -> sự bóc lột theo chiều rộng
+_ "khoản chênh lệch giữa giá trị hàng hóa bán được với chi phí phải bỏ ra" được gọi là gì? Lợi nhuận
+
+
+L **************************************
+##### LỰA CHỌN PHƯƠNG ÁN
+- Lựa chọn p/án sai: Để thu hồi nhanh giá trị của tư bản cố định thì các DN phải: Tăng tg lđ trong ngày
+- Lựa chọn p/án đúng nhất trong các p/án dưới đây: Kinh tế NN là: Thành phần kt dựa trên chế độ sở hữu công cộng về tư liệu sx (sở hữu toàn dân & sở hữu NN), bao gồm: các DN NN và các tài sản thuộc sở hữu NN có thể đưa vào vòng chu chuyển kt
+- Lựa chọn p/án đúng nhất: Các giai đoạn pt của kt thị trường đã trải qua: KTTT sơ khai, KTTT hiện đại có sự điều tiết của NN
+- Lựa chọn p/án đúng nhất trong số các p/án dưới đây: Csvc - kỹ thuật còn ở trình độ thấp, kết cấu hạ tầng lạc hậu và kém pt. PCLĐ kém pt, chuyển dịch cơ cấu kt còn chậm. Knang cạnh tranh của các DN VN trong nước và qte còn thấp
+_ Lựa chọn phương án đúng nhất trong các phương án dưới đây: kinh tế nhà nước là -> là thành phần kinh tế dựa trên chế độ sở hữu công cộng về tư liệu sản xuất (sở hữu toàn dân và sở hữu nhà nước), bao gồn cac doanh nghiệp nhà nước và các tài sản thuộc sở hữu nhà nước có thể đưa vào vòng chu chuyển kinh tế 
+_ Lựa chọn phương án đúng nhất: Giá trị thặng dư là gì? Là bộ phận giá trị cũ dôi ra ngoài giá trị sức lao động do người lao động làm thuê tạo ra và thuộc về người mua sức lao động.
+_ Lựa chọn phương án đúng nhất trong các phương án sau? B) Giá trị thặng dư được tạo ra trong quá trình sản xuất.
+
+##### 
+- Lượng gtri hàng hóa nhiều hay ít, cao hay thấp được xác định bằng: Thời gian lđ xh cần thiết
+- Lao động nào tạo ra giá trị hàng hóa: Lao động trừu tượng
+
+
+M ****************************************
+##### MỘT TRONG NHỮNG
+_Một trong những tác động tích cực của hội nhập quốc tế là: làm tăng cơ hội của các doanh nghiệp trong nước tiếp cận với thị trường qtế
+_ Một trong những tác động tích cực của hội nhập kinh tế quốc tế là: Tạo động lực thúc đẩy chuyển dịch cơ cấu kinh tế theo hướng hợp lý, hiện đại và hiệu quả hơn
+- Một trong những tác động tiêu cực của hội nhập ktqt là: Làm tăng nguy cơ tình trạng khủng bổ qte, buôn lậu, tội phạm xuyên qgia, bệnh dịch, tăng khoảng cách giàu nghèo
+_ Một trong những tác động tiêu cực của hội nhập kinh tế quốc tế là : Làm tăng khoảng cách giàu nghèo và bất bình đẳng xã hội
+
+- Một trong những đặc điểm của nền kt tri thức là: CNTT được ứng dụng rộng rãi trong mọi lvuc
+_ Một trong những đặc điểm của nền kinh tế tri thức là: D) Các ngành kinh tế dựa vào tri thức ngày càng tăng và chiếm đa số
+_ Một trong những đặc điểm công nghiệp hóa, hiện đại hóa ở Việt Nam là?” → Đáp án đúng là: C) Thực hiện trong bối cảnh toàn cầu hóa kinh tế
+_ Một trong những đặc điểm công nghiệp hóa, hiện đại hóa ở Việt Nam là : Thực hiện trong điều kiện đất nước còn kém phát triển
+
+_ Một trong những yêu cầu của cơ cấu kinh tế hợp lý, hiện đại và hiệu quả là: Khai thác, phân bổ và phát huy hiệu quả các nguồn lực trong nước, thu hút hiệu quả các nguồn lực bên ngoài
+_ Một trong những phương hướng nâng cao hiệu quả của hội nhập quốc tế ở việt nam là -> nâng cao năng lực cạnh tranh của nền kinh tế (cạnh tranh này là cạnh tranh quốc tế)
+_ Một trong những yêu cầu của cơ cấu kinh tế hợp lý, hiện đại và hiệu quả là :Khai thác, phân bổ và phát huy hiệu quả các nguồn lực trong nước, thu hút huy hiệu
+_ Một trong những yêu cầu của cơ cấu kinh tế hợp lý, hiện đại và hiệu quả là :Khai thác, phân bố và phát huy hiệu quả các nguồn lực trong nước, thu hút huy hiệu quả các nguồn lực bên ngoài
+
+- Một trong những nd hoàn thiện thể chế kt thị trường định hướng xhcn ở VN đó là: Hoàn thiện thể chế đảm bảo gắn tăng trưởng kt với bảo đảm tiến bộ và công bằng xã hội
+_ Một trong những nội dung hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, đó là: A) Hoàn thiện thể chế về sở hữu và phát triển các thành phần kinh tế
+_ Một trong những nội dung hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, đó là: Chọn đáp án đúng nhất.: Hoàn thiện thể chế thúc đẩy hội nhập kinh tế quốc tế
+
+
+- Một trong những quan điểm về CNH, HĐH ở VN trong bối cảnh cách mạng lần t4 là: Chủ động chuẩn bị các điều kiện cần thiết, giải phóng mọi nguồn lực + huy động sức sáng tạo toàn dân
+_ Một trong những hạn chế trong thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, đó là: B) Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta thực hiện còn chậm
+
+##### 
+_ Mục đích nghiên cứu của Kinh tế chính trị Mác- Lênin là: Tìm ra các quy luật kinh tế chi phối các quan hệ giữa người với người trong sản xuất và trao đổi
+_Mục đích điều tiết vĩ mô của nhà nước Việt Nam trong nền kinh tế thị trường định hướng xã hội chủ nghĩa là: C) Xây dựng xã hội giàu mạnh, dân chủ, công bằng, văn minh. Phát huy tác dụng tích cực và hạn chế tác động tiêu cực của cơ chế thị trường
+_Môn kinh tế chính trị thực chất là 1 môn khoa học. A) có tính tất nhiên
+
+
+
+N *****************************************
+##### NHỮNG
+_Những thành tựu và hạn chế của chủ nghĩa tư bản bắt nguồn từ: mâu thuẫn giữa trình độ xã hội hóa cao của lực lượng sản xúất với quan hệ tư bản chủ nghĩa về tư liệu sản xuất
+_ Nước đầu tiên vận dụng cách mạng công nghiệp lần thứ tư trong “Kế hoạch hành động chiến lược công nghệ cao”. -> Đáp án đúng là: B) Đức
+_Những phát minh quan trọng tạo tiền đề cho cách mạng công nghiệp lần thứ nhất là : phát minh ra máy móc trong ngành dệt
+_ Những hình thức tổ chức độc quyền từ thấp đến cao cuối thế kỷ 19, đầu thế kỷ 20 bao gồm: Cartel (Cácten), Syndicate (xanhdica), Trusr (tờrớt), công xoócxiom
+
+
+##### NẾU
+_ Nếu kí hiệu cphi sx tư bản (K), tb bất biến là (c), tb khả biến là (v), gtri thặng dư (m) -> kết cấu cpsxtbcn: K=c+v
+_ Nếu hàng hóa có giá trị bằng: 80c + 20v + 30m thì giá trị cũ là bao nhiêu? Bộ phận giá trị cũ = 80
+_ Nếu hàng hóa có giá trị bằng 80c + 20v + 30m thì giá trị mới là bao nhiêu? BỘ PHẬN GIÁ TRỊ MỚI = 50
+
+##### NGUỒN GỐC
+_ Nguồn gốc của gtri thặng dư do đâu mà ra: Sức lđ công nhân làm thuê tạo ra
+_ Nguồn gốc của sự giàu có của xh là: Lao động sx ra của cải vật chất
+
+##### 
+_ Nhà nước xhcn ở VN quản lý nền kt ttrg định hướng xhcn theo nguyên tắc: Kết hợp kế hoạch với thị trường
+_ Nguyên tắc kết hợp kế hoạch với thị trường: Thị trường vừa là đối tượng, vừa là căn cứ của công tác kế hoạch hóa
+_ Ngày lđ của công nhân được chia thành 2 phần: Tgian lđ xh cần thiết và tgian lđ thặng dư
+_ Nhiệm vụ giai đoạn 3 (bán) trong quá trình tuần hoàn của tư bản là gì: Chuẩn bị cho qtrinh tiêu dùng gtri thặng dư
+    1. Chuẩn bị sx
+    2. Sx GTTD
+    3. Chuẩn bị tiêu dùng
+_ Nước đầu tiên vận dụng cách mạng công nghiệp lần thứ tư trong " Kế hoạch hành động chiến lược công nghệ cao" là : ĐỨC
+
+
+P *****************************************
+_ Phân công lao động xã hội là: Phân công lao động xã hội là sự phân chia lao động xã hội vào trong các ngành sản xuất khác nhau
+_ Phương thức sản xuất tư bản chủ nghĩa ra đời thay thế cho phương thức sản xuất nào: Phương thức sản xuất phong kiến
+
+
+Q ****************************************
+_Quy luật kinh tế tồn tại -> Khách quan
+_ Qui luật kinh tế cơ bản của sản xuất và trao đổi hàng hóa là quy luật nào? Qui luật giá trị
+
+
+S *****************************************
+_ Sở hữu là: quan hệ giữa người với người trong việc chiếm hữu của cải
+_ Sự ra đời của tư bản tài chính là kêt quả của:Quá trình độc quyền hóa trong công nghiệp và trong ngân hàng xoắn xuýt với nhau.
+
+
+T *****************************************
+##### TRONG
+_ Trong thời kì quá độ lên chxh ở VN, các hình thức sở hữu tồn tại trong trạng thái: tồn tại khách quan chịu sự quản lý của NN bằng luật pháp và chính sách, tồn tại đan xen vào nhau và tác động qua lại lẫn nhau
+_ Trong nền kinh tế tri thức, tài nguyên qtr nhất của nền kt là: Thông tin
+_ Trong hệ thống cơ cấu kinh tế thì cơ cấu nào giữ vai trò qtrong nhất: Cơ cấu ngành kt
+_ Trong chủ nghĩa tư bản ngày nay, các tập đoàn tư bản tài chính thường tồn tại dưới dạng: Công-nông-thương-tín-dịch vụ hay công nghiệp-quân sự-dịch vụ quốc phòng
+_ Trong quan niệm về chủ nghĩa đế quốc VI.Leenin không bàn tới vde nào: Giá trị lao động
+_Trong giao dịch mua bán chứng khoán, chứng quyền. Tiền tệ thực hiện chức năng nào? D) Phương tiện thanh toán
+_Trong các yếu tố sau đây, yếu tố nào là nguồn gốc của giá trị hàng hóa? C) Lao động của con người
+tượng
+_Trong chủ nghĩa tư bản ngày nay các tập đoàn tư bản tài chính tồn tại dưới dạng => công nông thương tín dịch vụ hay công nghiệp quân sự dịch vụ quốc phòng
+_Trong các yếu tố sau đây yếu tố nào được xác định là thực thể của giá trị hàng hóa: lao động trừu 
+_ Trong giai đoạn chủ nghĩa tư bản độc quyền, quy luật giá trị biểu hiện thành quy luật nào? -> D. Quy luật giá cả độc quyền.
+_Trong số các thành phần kinh tế đang tồn tại ở Việt Nam, thành phần nào được xác định giữ vai trò là nòng cốt của nền kinh tế. D) Kinh tế nhà nước
+_Trong các chức năng của tiền, chức năng nào có thể dùng tiền giấy: A) Chức năng phương tiện lưu thông
+_ Trong các hình thức của các tổ chức độc quyền sau, hình thức nào tồn tại trong chủ nghĩa tư bản ngày nay: Concern và Conglomerate.
+_ Trong nông nghiệp tbcn, chủ thể nộp địa tô cho địa chủ là ai?: NHÀ TƯ BẢN KINH DOANH NÔNG NGHIỆP
+
+
+##### TÌM
+_ Tìm p/án không đúng: Đến cuối tk 19, đầu tk 20: Số dân của thuộc địa Anh nhiều hơn 12 lần số dân thuộc địa của Nga và bằng 7 lần của Đức
+    - Đúng: Anh chiếm nhiều thuộc địa nhất, > 12 lần của Nga & = 7 lần của Pháp; của Pháp > Đức + Mỹ + Nhật
+_ Tìm p/án không đúng: Do sự phân chia lãnh thổ và pt không đều của các cường quốc tư bản: Dẫn đến cuộc WW lần t1 (1914-1918)
+_Tìm trong số các diễn đạt sau đây, diễn đạt nào sai về tư bản cho vay? -> Thu nhập của tư bản cho vay phải bằng lợi nhuận bình quân.
+_ Tìm phương án không đúng về mqh giữa dạnh tranh và độc quyền:-> độc quyền thủ tiêu cạnh tranh
+_Tìm phương án không đúng: xuất khẩu tư bản của Nhà nước: B) thường đầu tư vào những ngành kinh tế có vòng quay tư bản ngắn và thu được lợi nhuận độc quyền cao
+_ Tìm phương án không đúng : xuất khẩu tư bản, của Nhà nước mục tiêu kinh tế, chính tn.
+quân sự nhất định: MỤC TIÊU KINH TẾ, CHÍNH TRỊ QUÂN SỰ NHẤT ĐỊNH.
+_ Tìm phương án không đúng về mối quan hệ giữa cạnh tranh và độc quyền: Độc quyền sinh ra từ cạnh tranh
+
+##### THẾ NÀO LÀ
+_ Thế nào là lđ cụ thể: Là những lđ lành nghề, có thao tác riêng, đối tượng riêng, mục đích riêng và kết quả riêng
+_ Thế nào là thời gian lao động xã hội cần :Là khoảng thời gian cần thiết để sản xuất ra một hàng hóa nào đó trong điều kiện sản xuất trung bình của xã hội tức là với trình độ khéo léo trung bình, cường độ lao động trung bình và trong điều kiện kỹ thuật trung bình của xã hội.
+_Thế nào là tỷ suất giá trị thặng dư? C) Là tỷ lệ phần trăm giữa giá trị thặng dư và tư bản bất biến cần thiết để tạo ra giá trị thặng dư đó.
+
+##### THỂ CHẾ
+_Thể chế là: B) Là những quy tắc, luật pháp, bộ máy quản lý và cơ chế vận hành nhằm điều chỉnh các hoạt động của con người trong một chế độ xã hội
+_ Thể chế kt là: Hệ thống quy tắc, luật pháp, bộ máy qly và cơ chế vận hành nhằm điều chỉnh hành vi của các chủ thể kt, các hành vi sx kinh doanh và các qh kte
+_ Thể chế kinh tế thị trường định hướng xã hội chủ nghĩa là: Hãy chọn đáp án đúng nhất trong các đáp án sau: Là hệ thống đường lối, chủ trường chiến lược, hệ thống luật pháp, chính sách quy định xác lập cơ chế vận hành, điều chỉnh chức năng, hoạt động, mục tiêu, phương thức hoạt động, các quan hệ lợi ích của các tổ chức, các chủ thể kinh tế nhằm hướng tới xác lập động bộ các yếu tố thị trường, các loại thị trường hiện đại theo hướng góp phần thúc đẩy dân giàu, nước mạnh, dân chủ, công bằng, văn minh.
+
+##### TÁC DỤNG
+_ Tác dụng điều tiết sản xuất và lưu thông của quy luật gtri có ý nghĩa? Chọn p/án sai: Hàng hóa trên thị trường được di chuyển từ nơi giá cả cao đến nơi giá cả thấp
+_ Tác dụng của quy luật giá trị? Chọn đáp án SAI: Khắc phục được khủng hoảng kinh tế
+
+##### 
+_ Thuộc tính tự nhiên của hàng hóa sẽ quyết định: Giá trị sử dụng
+_ Thời gian chu chuyển của tư bản gồm: Thời gian sx và tgian lưu thông
+    - Tgsx = tgian lđ + tgian gián đoạn lđ + tg dự trữ sx
+    - Tglt = tgian mua + tgian bán
+_ Tóm tắt đặc trưng của cuộc CM lần t1: Sử dụng năng lượng nước và hơi nước để cơ khí hóa sx
+_ Thực chất sự phân chia thế giới về kinh tế giữa các tổ chức độc quyền là: Xu hướng qte hóa, toàn cầu hóa kt ngày càng tăng
+_Tiền công là gì? -> Đáp án đúng: A) Giá cả của hàng hóa sức lao độnG
+_“Thời gian chu chuyển của tư bản bao gồm những thời gian nào?”→ Đáp án đúng là: A) Thời gian sản xuất và thời gian lưu thông hàng hóa.
+_ Thị trường có vai trò ntnào tròn nền ktế– chọn đáp án SAI -> Thị trường khắc phục sự khan hiếm các nguồn lực
+_ Theo quan điểm của Đảng Cộng sản Việt Nam thì, (...) là quá trình chuyển đổi căn bản, toàn diện các hoạt động sản xuất kinh doanh, dịch vụ và quản Its kinh tế - xã hội từ sử dụng sức lao động thủ công là chính sang sử dụng một cách phổ biến sức lao động với công nghệ, phương tiện, phương pháp tiên tiến hiện đại dựa trên sự phát triển của công nghiệp và tiến bộ khoa học công nghệ, nhằm tạo ra năng suất lao động xã hội cao: công nghiệp hoá, hiện đại hoá
+_Tư bản bất biến là gì? A) Là bộ phận tư bản tồn tại dưới hình thái tư liệu sản xuất và không biến đổi về lượng trong quá trình sản xuất. Ký hiệu là c.
+_ Trên thị trường, các quan hệ kinh tế và yếu tố kinh tế như cung, câu, giá cá, quan hệ hàng hóa tiền tê, người bán-người mua.. vận động theo các quy luật của? Thị trường
+_ Thời gian lao động thặng dư là gì? - Thời gian lao động mà người công nhân tạo ra giá trị ngang bằng với giá trị thặng dư.
+
+
+
+V ******************************************
+##### VAI TRÒ
+_ Vai trò của các chủ thể trung gian trong ttrg: Tất cả các đáp án đều đúng
+_Vai trò của công nghiệp hoá, hiện đại hoá đối với Việt Nam là: ->) Góp phần hoàn thiện quan hệ sản xuất
+_Vai trò kinh tế của nhà nước trong nền kinh tế thị trường? A) Thực hiện chức năng quản lý nhà nước về kinh tế và thực hiện những biện pháp để khắc phục khuyết tật của thị trường
+_ Vai trò của cách mạng công nghiệp đối với phát triển là : A) Thúc đẩy sự phát triển lực lượng sản xuất B) Thúc đẩy sự hoàn thiện quan hệ sản xuất C) Thúc đẩy đổi mới phương thức quản trị = Tất cả các đáp án đều đúng ( ĐA: TẤT CẢ)
+
+
+##### 
+_ Về mặt lượng, Giá trị thặng dư được tính theo: Tích giửa Tỷ suất giá trị thặng dư với tư bản khả biến cần thiết để tạo ra giá trị thặng dư đó
+_ Việt Nam chính thức trỏ thành thành viên của WTO năm nào ? 2007
+_Vì sao ở Việt Nam kinh tế nhà nước cùng với kinh tế tập thể lại giữ vai trò là nền tảng của nền kinh tế? A) Vì trong thời kỳ quá độ lên chủ nghĩa xã hội sở hữu công cộng là nền tảng của nền kinh tế, mà kinh tế nhà nước và kinh tế tập thể đều là những thành phần kinh tế đại diện cho sở hữu công cộng.
+_ Việc tiếp thu và phát triển khoa học công nghệ mới, hiện đại của các nước kém phát triển có thể thực hiện thông qua các con đường cơ bản như: A) Thông qua đầu tư nghiên cứu và hoàn thiện dần trình độ công nghệ B) Tiếp nhận chuyển giao công nghệ từ các nước phát triển hơn c) Phát triển công nghệ nhiều tầng, kết hợp công nghệ truyền thống với công nghệ hiện đại (ĐA: Cả 3 đáp án đều đúng)
+
+
+X ***************************************
+_ Xác đinh vai trò của sở hữu công cọng trong nền kinh tế của thời kì quá dộ lên cnxh ở vn: Sở hữu công cộng vừa là mục tiêu vừa là phương tiện trong công cuộc xdựng xhcn
+_Xác định phương án đúng nhất. Thời gian chu chuyển của tư bản là gì? ->Là khoảng thời gian tính từ khi tư bản ứng ra dưới một hình thái nào đó, đến khi quay về cùng dưới hình thái ấy có giá trị thặng dư
+_ Xác định câu trả lời đúng nhất trong các phương án sau: Chủ nghĩa tư bản ngày nay là: A) Giai đoạn hiện nay của chủ nghĩa tư bản
+
+
+Y *****************************************
+_ Yêu cầu của qui luật giá trị trong nền kinh tế thị trường?  Quá trình sản xuất và lưu thông hàng hóa phải được tiến hành trên cơ sở hao phí lao động xã hội cần thiết.
+
+
+
+
+
+
